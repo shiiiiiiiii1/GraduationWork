@@ -17,6 +17,9 @@ int16_t gx, gy, gz;
 
 Adafruit_TSL2561_Unified tsl = Adafruit_TSL2561_Unified(TSL2561_ADDR_FLOAT, 12345);   // 照度センサ
 
+int mic_pin = 3;   // 音センサピン
+int pir_pin = 13;   // 焦電センサピン
+
 void setup() {
   uint8_t osrs_t = 1;   // Temperature oversampling x 1
   uint8_t osrs_p = 1;   // Pressure oversampling x 1
@@ -41,8 +44,9 @@ void loop() {
   accelgyro.getMotion6(&ax, &ay, &az, &gx, &gy, &gz);   // 6軸加速度センサの値を読み込む
   sensors_event_t lux;
   tsl.getEvent(&lux);   // 照度センサの値を読み込む
-  float ans = analogRead(0);   // 赤外線センサ
-  float microphone = analogRead(1);   // マイク
+  int microphone = analogRead(mic_pin);   // マイク
+  int ans = digitalRead(pir_pin);   // 赤外線センサ
+  String pir = ans==0 ? "LOW" : "HIGH";
 
   setTime(12, 38, 0, 25, 10, 2016);   // 現在の時刻を入れて実験開始 ---------------------------------------------------------------------------------
   Serial.print(year()); Serial.print("/"); Serial.print(month()); Serial.print("/"); Serial.print(day()); Serial.print(" ");
@@ -59,8 +63,8 @@ void loop() {
   } else {
     Serial.print("'Sensor overload'");
   }
-  Serial.print(" / ans : "); Serial.print(ans);
-  Serial.print(" / microphone : "); Serial.print(microphone); Serial.println("");
+  Serial.print(" / microphone : "); Serial.print(microphone);
+  Serial.print(" / parallax : "); Serial.print(pir); Serial.println("");
 
   delay(1000);
 }
