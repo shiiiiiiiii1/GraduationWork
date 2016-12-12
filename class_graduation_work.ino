@@ -61,9 +61,9 @@ void loop() {
   float acceleration = 0.0;
   acceleration = total_acceleration();
 
-  if(ans == 1){
+  if(sound > 9){
     sensing_start_print();   // 時刻の表示
-    sensing_print(old_temp_act, old_press_act, old_hum_act, old_acceleration, old_lux, old_sound);
+    sensing_print(old_temp_act, old_press_act, old_hum_act, old_acceleration, old_lux, old_sound, ans);
     for(int i=0; i < 1000; i++){
       sensing_print(temp_act, press_act, hum_act, acceleration, lux.light, sound);
       delay(300);
@@ -128,7 +128,7 @@ void sensing() {
   sound = analogRead(mic_analogpin);   // 音センサの値を読み込む
 }
 
-void sensing_print(double temp_act, double press_act, double hum_act, float acceleration, float lux, int sound) {
+void sensing_print(double temp_act, double press_act, double hum_act, float acceleration, float lux, int sound, bool ans) {
   Serial.print("Temperature : "); Serial.print(temp_act);
   Serial.print("DegC / Pressure : "); Serial.print(press_act);
   Serial.print("hPa / Humidity : "); Serial.print(hum_act);
@@ -139,5 +139,6 @@ void sensing_print(double temp_act, double press_act, double hum_act, float acce
   } else {
     Serial.print("'Sensor overload'");
   }
-  Serial.print(" / sound : "); Serial.println(sound);
+  Serial.print(" / sound : "); Serial.print(sound);
+  Serial.print(" / ans : "); Serial.print(ans);
 }
