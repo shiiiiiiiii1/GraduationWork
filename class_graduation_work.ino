@@ -54,7 +54,7 @@ void setup() {
   accelgyro.initialize();
 
 // ------------------------------- 現在の時刻を入れて実験開始 -------------------------------
-  setTime(2, 17, 0, 8, 12, 2016);
+  setTime(14, 29, 0,13, 1, 2017);
 }
 
 void loop() {
@@ -66,7 +66,7 @@ void loop() {
   if(sound > 10 || acceleration > 30 || abs(old_lux - lux.light) >= 25 || abs(old_temp_act - temp_act) > 0.5){   // 観測出力の条件
     sensing_start_print();   // 時刻の表示
     sensing_print(old_temp_act, old_press_act, old_hum_act, old_acceleration, old_lux, old_sound, ans);
-    for(int i=0; i < 2; i++){
+    for(int i=0; i < 5; i++){
       sensing_print(temp_act, press_act, hum_act, acceleration, lux.light, sound, ans);
       delay(300);
       sensing();
