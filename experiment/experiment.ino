@@ -1,40 +1,17 @@
+// ライブラリ
+#include <ESP8266WiFi.h>   // WROOM
 #include <Time.h>   // 時間のセット
 #include <TimeLib.h>   // 時間のセット
 #include <Wire.h>   // I2C
-#include <SSCI_BME280.h>   // 温湿度気圧センサ
-#include <I2Cdev.h>   // 6軸加速度センサ
-#include <MPU6050.h>   // 6軸加速度センサ
-#include <Adafruit_Sensor.h>   // 照度センサ
-#include <Adafruit_TSL2561_U.h>   // 照度センサ
-
-
-SSCI_BME280 bme280;
-uint8_t temp_press_hum_i2c_addr = 0x76;   // 温湿度気圧センサ I2C Address
-double temp_act, press_act, hum_act;   // 温湿度気圧センサ変数宣言
-
-MPU6050 accelgyro;   // 6軸加速度センサ
-int16_t ax, ay, az;
-int16_t gx, gy, gz;
-const float factor = 0.99;
-float ax_low_filter_old = 0.0;
-float ay_low_filter_old = 0.0;
-float az_low_filter_old = 0.0;
-
-Adafruit_TSL2561_Unified tsl = Adafruit_TSL2561_Unified(TSL2561_ADDR_FLOAT, 12345);   // 照度センサ
-sensors_event_t lux;
-
-const int mic_analogpin = 3;   // 音センサのピン
-int sound;
-
-const int pir_pin = 13;   // 焦電センサのピン
-bool ans;
-
-// #define ARRAY_LENGTH 25
-
-
-double old_temp_act, old_press_act, old_hum_act;
-float old_acceleration, old_lux;
-int old_sound;
+#include <SSCI_BME280.h>   // 温湿度気圧
+#include <I2Cdev.h>   // 6軸加速度
+#include <MPU6050.h>   // 6軸加速度
+#include <Adafruit_Sensor.h>   // 照度
+#include <Adafruit_TSL2561_U.h>   // 照度
+// ヘッダーファイル
+#include "wifi_set.h"
+#include "global_setup.h"
+#include "function.h"
 
 void setup() {
   uint8_t osrs_t = 1;   // Temperature oversampling x 1
@@ -45,7 +22,8 @@ void setup() {
   uint8_t filter = 0;   // Filter off
   uint8_t spi3w_en = 0;   // SPI Disable
 
-  Serial.begin(9600);
+  // Serial.begin(115200);
+  WiFi.begin(ssid, password);
   Wire.begin();
 
   bme280.setMode(temp_press_hum_i2c_addr, osrs_t, osrs_p, osrs_h, bme280mode, t_sb, filter, spi3w_en);
@@ -90,75 +68,4 @@ void loop() {
   i++;
 
   delay(500);
-}
-
-
-
-float total_acceleration() {
-  float total_acceleration = 0.0;
-  for(int i=0; i<20; i++){
-    accelgyro.getMotion6(&ax, &ay, &az, &gx, &gy, &gz);
-    float ax_low_filter = factor * ax_low_filter_old + (1-factor) * (float)ax;
-    float ax_high_filter = factor * (ax_high_filter + ax_low_filter - ax_low_filter_old);
-    float ay_low_filter = factor * ay_low_filter_old + (1-factor) * (float)ay;
-    float ay_high_filter = factor * (ay_high_filter + ay_low_filter - ay_low_filter_old);
-    float az_low_filter = factor * az_low_filter_old + (1-factor) * (float)az;
-    float az_high_filter = factor * (az_high_filter + az_low_filter - az_low_filter_old);
-    total_acceleration += (ax_high_filter * ax_high_filter + ay_high_filter * ay_high_filter + az_high_filter * az_high_filter) / 20;
-    ax_low_filter_old = ax_low_filter;
-    ay_low_filter_old = ay_low_filter;
-    az_low_filter_old = az_low_filter;
-  }
-  return total_acceleration;
-}
-
-// /* センシングした値を配列にぶっ込む */
-
-
-// /* センシングした値の平均値を出す関数 */
-// double sensing_average(double sensing[ARRAY_LENGTH]) {
-//   double total = 0.0;
-//   for(int i=0; i<ARRAY_LENGTH; i++){
-//     total += sensing[i];
-//   }
-//   double ave = total / ARRAY_LENGTH;
-//   return ave;
-// }
-
-
-/* センシングの出力結果
-
-   12/8 5:30:20秒の場合
->
-> ------------------  12/8 5:30:20  ------------------
->
-
-*/
-void sensing_start_print() {
-  Serial.print("------------------  ");
-  Serial.print(month()); Serial.print("/"); Serial.print(day()); Serial.print(" ");
-  Serial.print(hour()); Serial.print(":"); Serial.print(minute()); Serial.print(":"); Serial.print(second());
-  Serial.println("  ------------------");
-}
-
-void sensing() {
-  bme280.readData(&temp_act, &press_act, &hum_act);   // 温湿度気圧センサの値を読み込む
-  accelgyro.getMotion6(&ax, &ay, &az, &gx, &gy, &gz);   // 6軸加速度センサの値を読み込む
-  tsl.getEvent(&lux);   // 照度センサの値を読み込む
-  sound = analogRead(mic_analogpin);   // 音センサの値を読み込む
-}
-
-void sensing_print(double temp_act, double press_act, double hum_act, float acceleration, float lux, int sound, bool ans) {
-  Serial.print("Temperature : "); Serial.print(temp_act);
-  Serial.print("DegC / Pressure : "); Serial.print(press_act);
-  Serial.print("hPa / Humidity : "); Serial.print(hum_act);
-  Serial.print("% / Acceleration : "); Serial.print(acceleration);
-  Serial.print("g / LUX : ");
-  if (lux) {
-    Serial.print(lux); Serial.print("lux");
-  } else {
-    Serial.print("'Sensor overload'");
-  }
-  Serial.print(" / sound : "); Serial.print(sound);
-  Serial.print(" / ans : "); Serial.println(ans);
 }
