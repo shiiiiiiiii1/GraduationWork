@@ -27,7 +27,9 @@ const int mic_analogpin = 3;   // 音センサのピン
 int sound;
 
 const int pir_pin = 13;   // 焦電センサのピン
-int ans;
+bool ans;
+
+// #define ARRAY_LENGTH 25
 
 
 double old_temp_act, old_press_act, old_hum_act;
@@ -52,36 +54,41 @@ void setup() {
   accelgyro.initialize();
 
 // ------------------------------- 現在の時刻を入れて実験開始 -------------------------------
-  setTime(2, 17, 0, 8, 12, 2016);
+  setTime(14, 29, 0,13, 1, 2017);
 }
 
 void loop() {
+  int i = 0;
   ans = digitalRead(pir_pin);   // 赤外線センサの値を読み込む
   sensing();
-  float acceleration = 0.0;
-  acceleration = total_acceleration();
+  float acceleration = total_acceleration();
 
-  if(ans == 1){
+  if(sound > 10 || acceleration > 30 || abs(old_lux - lux.light) >= 25 || abs(old_temp_act - temp_act) > 0.5){   // 観測出力の条件
     sensing_start_print();   // 時刻の表示
-    sensing_print(old_temp_act, old_press_act, old_hum_act, old_acceleration, old_lux, old_sound);
-    for(int i=0; i < 1000; i++){
-      sensing_print(temp_act, press_act, hum_act, acceleration, lux.light, sound);
+    sensing_print(old_temp_act, old_press_act, old_hum_act, old_acceleration, old_lux, old_sound, ans);
+    for(int i=0; i < 5; i++){
+      sensing_print(temp_act, press_act, hum_act, acceleration, lux.light, sound, ans);
       delay(300);
       sensing();
       acceleration = total_acceleration();
-      if(i > 3 && digitalRead(pir_pin) == 0){
-        break;
-      }
+      // if(i > 2 && digitalRead(pir_pin) == 0){   // breakタイミングの設定
+      //   break;
+      // }
     }
     Serial.println("");
   }
 
-  old_temp_act = temp_act;
-  old_press_act = press_act;
-  old_hum_act = hum_act;
   old_acceleration = acceleration;
   old_lux = lux.light;
   old_sound = sound;
+
+  if(i % 1200 == 0){
+    old_temp_act = temp_act;
+    old_press_act = press_act;
+    old_hum_act = hum_act;
+  }
+  i++;
+
   delay(500);
 }
 
@@ -97,13 +104,26 @@ float total_acceleration() {
     float ay_high_filter = factor * (ay_high_filter + ay_low_filter - ay_low_filter_old);
     float az_low_filter = factor * az_low_filter_old + (1-factor) * (float)az;
     float az_high_filter = factor * (az_high_filter + az_low_filter - az_low_filter_old);
-    total_acceleration += (ax_high_filter * ax_high_filter + ay_high_filter * ay_high_filter + az_high_filter * az_high_filter)/20;
+    total_acceleration += (ax_high_filter * ax_high_filter + ay_high_filter * ay_high_filter + az_high_filter * az_high_filter) / 20;
     ax_low_filter_old = ax_low_filter;
     ay_low_filter_old = ay_low_filter;
     az_low_filter_old = az_low_filter;
   }
   return total_acceleration;
 }
+
+// /* センシングした値を配列にぶっ込む */
+
+
+// /* センシングした値の平均値を出す関数 */
+// double sensing_average(double sensing[ARRAY_LENGTH]) {
+//   double total = 0.0;
+//   for(int i=0; i<ARRAY_LENGTH; i++){
+//     total += sensing[i];
+//   }
+//   double ave = total / ARRAY_LENGTH;
+//   return ave;
+// }
 
 
 /* センシングの出力結果
@@ -128,7 +148,7 @@ void sensing() {
   sound = analogRead(mic_analogpin);   // 音センサの値を読み込む
 }
 
-void sensing_print(double temp_act, double press_act, double hum_act, float acceleration, float lux, int sound) {
+void sensing_print(double temp_act, double press_act, double hum_act, float acceleration, float lux, int sound, bool ans) {
   Serial.print("Temperature : "); Serial.print(temp_act);
   Serial.print("DegC / Pressure : "); Serial.print(press_act);
   Serial.print("hPa / Humidity : "); Serial.print(hum_act);
@@ -139,5 +159,6 @@ void sensing_print(double temp_act, double press_act, double hum_act, float acce
   } else {
     Serial.print("'Sensor overload'");
   }
-  Serial.print(" / sound : "); Serial.println(sound);
+  Serial.print(" / sound : "); Serial.print(sound);
+  Serial.print(" / ans : "); Serial.println(ans);
 }
