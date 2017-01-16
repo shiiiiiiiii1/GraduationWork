@@ -66,10 +66,22 @@ bool tweetMsg(String msg) {
 >
 
 */
-void sensing_start_print() {
+void display(){
+  time_t n = now();
+  time_t t;
+
+  char s[20];
+  const char* format = "%04d-%02d-%02d %02d:%02d:%02d";
+
+  // JST
+  t = localtime(n, 9);
+  sprintf(s, format, year(t), month(t), day(t), hour(t), minute(t), second(t));
+  Serial.print("JST : ");
+  Serial.println(s);
+
   Serial.print("------------------  ");
-  Serial.print(month()); Serial.print("/"); Serial.print(day()); Serial.print(" ");
-  Serial.print(hour()); Serial.print(":"); Serial.print(minute()); Serial.print(":"); Serial.print(second());
+  Serial.print(month(t)); Serial.print("/"); Serial.print(day(t)); Serial.print(" ");
+  Serial.print(hour(t)); Serial.print(":"); Serial.print(minute(t)); Serial.print(":"); Serial.print(second(t));
   Serial.println("  ------------------");
 }
 

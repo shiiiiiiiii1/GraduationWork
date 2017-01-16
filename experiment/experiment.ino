@@ -1,7 +1,6 @@
 // ライブラリ
 #include <ESP8266WiFi.h>   // WROOM
-#include <Time.h>   // 時間のセット
-#include <TimeLib.h>   // 時間のセット
+#include <NTP.h>   // Time
 #include <Wire.h>   // I2C
 #include <SSCI_BME280.h>   // 温湿度気圧
 #include <I2Cdev.h>   // 6軸加速度
@@ -31,8 +30,7 @@ void setup() {
 
   accelgyro.initialize();
 
-// ------------------------------- 現在の時刻を入れて実験開始 -------------------------------
-  setTime(14, 29, 0,13, 1, 2017);
+  ntp_begin(2390);
 }
 
 void loop() {
