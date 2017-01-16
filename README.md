@@ -11,7 +11,7 @@
 ## 使用したセンサ
 - 温湿度気圧センサー([BME280](http://akizukidenshi.com/catalog/g/gK-09421/))
 - 照度センサー([TSL2561](http://akizukidenshi.com/catalog/g/gM-08219/))
-- 3軸加速度 + 3軸ジャイロセンサー(MPU-6050)
+- 3軸加速度 + 3軸ジャイロセンサー([MPU-6050](http://jp.rs-online.com/web/p/products/8837948/?cm_mmc=JP-PPC-_-google-_-3_JP_JP_M_SEMIS_Phrase-_-invensense%7C%E5%8A%A0%E9%80%9F%E5%BA%A6%E3%82%BB%E3%83%B3%E3%82%B5ic&mkwid=sG8zAcqeA-dc%7Cpcrid%7C89475592147%7Cpkw%7Cmpu+6050%7Cpmt%7Cp%7Cprd%7C))
 - 焦電型赤外線センサー([SB412A](http://akizukidenshi.com/catalog/g/gM-06835/))
 - ~~マイクアンプキット([リンク](http://akizukidenshi.com/catalog/g/gK-05757/))~~
 - サウンド・ディテクター([リンク](https://www.switch-science.com/catalog/1700/))
