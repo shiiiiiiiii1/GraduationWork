@@ -66,7 +66,7 @@ bool tweetMsg(String msg) {
 >
 
 */
-void display(){
+void sensing_start_print(){
   time_t n = now();
   time_t t;
 
