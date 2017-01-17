@@ -21,9 +21,9 @@ void setup() {
   uint8_t filter = 0;   // Filter off
   uint8_t spi3w_en = 0;   // SPI Disable
 
-  // Serial.begin(115200);
+  Serial.begin(9600);
   WiFi.begin(ssid, password);
-  Wire.begin();
+  Wire.begin(4, 14);   // Wire.begin(SDApin, SCLpin);
 
   bme280.setMode(temp_press_hum_i2c_addr, osrs_t, osrs_p, osrs_h, bme280mode, t_sb, filter, spi3w_en);
   bme280.readTrim();
@@ -31,39 +31,67 @@ void setup() {
   accelgyro.initialize();
 
   ntp_begin(2390);
+
+  float acceleration;
+  for(int i = 0; i < 50; i++){
+    sensing();
+    acceleration = total_acceleration();
+    Serial.println(acceleration);
+    delay(50);
+  }
+  old_acceleration = acceleration;
+  old_lux = lux.light;
+  old_sound = sound;
+  old_temp_act = temp_act;
+  old_press_act = press_act;
+  old_hum_act = hum_act;
 }
 
 void loop() {
-  int i = 0;
-  ans = digitalRead(pir_pin);   // 赤外線センサの値を読み込む
   sensing();
   float acceleration = total_acceleration();
 
-  if(sound > 10 || acceleration > 30 || abs(old_lux - lux.light) >= 25 || abs(old_temp_act - temp_act) > 0.5){   // 観測出力の条件
-    sensing_start_print();   // 時刻の表示
-    sensing_print(old_temp_act, old_press_act, old_hum_act, old_acceleration, old_lux, old_sound, ans);
-    for(int i=0; i < 5; i++){
-      sensing_print(temp_act, press_act, hum_act, acceleration, lux.light, sound, ans);
-      delay(300);
-      sensing();
-      acceleration = total_acceleration();
-      // if(i > 2 && digitalRead(pir_pin) == 0){   // breakタイミングの設定
-      //   break;
-      // }
-    }
-    Serial.println("");
+  sensing_start_print();
+  sensing_print(temp_act, press_act, hum_act, acceleration, lux.light, 0, ans);
+
+  /*
+    - 季節を見て状況判断？
+    - 暖房つけた時と昼間普通に温度が上がる時の差がわかりにくい？
+      - 温度の上がり具合の急激さで判断
+  */
+  if(temp_act - old_temp_act >= 1.0 && temp_act - old_temp_act <= 1.5){
+    tweetMsg("暖房つけた〜！");
+    Serial.println("暖房つけた");
+    old_temp_act = temp_act;
   }
+  if(old_temp_act - temp_act >= 1.0 && old_temp_act - temp_act <= 1.5){
+    tweetMsg("暖房消した〜！");
+    Serial.println("暖房消した");
+   old_temp_act = temp_act;
+  }
+
+  if(old_lux >= 71.0 && lux.light <= 21){
+    tweetMsg("電気消した！");
+    Serial.println("電気消した");
+  }
+  if(old_lux <= 43.0 && lux.light >= 71.0){
+    tweetMsg("電気つけた！");
+    Serial.println("電気つけた");
+  }
+  // if(lux.light - old_lux => 250){ /* カーテン開けた */ }
+
 
   old_acceleration = acceleration;
   old_lux = lux.light;
   old_sound = sound;
-
-  if(i % 1200 == 0){
+  if(count % 1500 == 0){
     old_temp_act = temp_act;
     old_press_act = press_act;
     old_hum_act = hum_act;
+    count = 0;
   }
-  i++;
+  count++;
 
-  delay(500);
+  delay(1000);
+  // delay(60000);
 }

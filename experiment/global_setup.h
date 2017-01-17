@@ -23,3 +23,5 @@ int old_sound;
 // 赤外線センサー
 const int pir_pin = 13;
 bool ans;
+// 10分ごとに温湿度気圧センサーを観測
+int count = 0;

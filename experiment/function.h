@@ -3,6 +3,7 @@ void sensing() {
   accelgyro.getMotion6(&ax, &ay, &az, &gx, &gy, &gz);   // 6軸加速度センサの値を読み込む
   tsl.getEvent(&lux);   // 照度センサの値を読み込む
   sound = analogRead(mic_analogpin);   // 音センサの値を読み込む
+  ans = digitalRead(pir_pin);   // 赤外線センサの値を読み込む
 }
 
 float total_acceleration() {
@@ -75,9 +76,7 @@ void sensing_start_print(){
 
   // JST
   t = localtime(n, 9);
-  sprintf(s, format, year(t), month(t), day(t), hour(t), minute(t), second(t));
-  Serial.print("JST : ");
-  Serial.println(s);
+  // sprintf(s, format, year(t), month(t), day(t), hour(t), minute(t), second(t));
 
   Serial.print("------------------  ");
   Serial.print(month(t)); Serial.print("/"); Serial.print(day(t)); Serial.print(" ");
