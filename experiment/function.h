@@ -2,7 +2,8 @@ void sensing() {
   bme280.readData(&temp_act, &press_act, &hum_act);   // 温湿度気圧センサの値を読み込む
   accelgyro.getMotion6(&ax, &ay, &az, &gx, &gy, &gz);   // 6軸加速度センサの値を読み込む
   tsl.getEvent(&lux);   // 照度センサの値を読み込む
-  sound = analogRead(mic_analogpin);   // 音センサの値を読み込む
+  sound = ads.readADC_SingleEnded(0);
+  // sound = analogRead(mic_analogpin);   // 音センサの値を読み込む
   ans = digitalRead(pir_pin);   // 赤外線センサの値を読み込む
 }
 
@@ -97,4 +98,26 @@ void sensing_print(double temp_act, double press_act, double hum_act, float acce
   }
   Serial.print(" / sound : "); Serial.print(sound);
   Serial.print(" / ans : "); Serial.println(ans);
+}
+
+String tweetString(String msg) {
+  time_t n = now();
+  time_t t;
+  char s[20];
+  const char* format = "%04d-%02d-%02d %02d:%02d:%02d";
+  t = localtime(n, 9);
+
+  String tweetString = msg;
+  tweetString += "\n";
+  tweetString += String(month(t));
+  tweetString += "/";
+  tweetString += String(day(t));
+  tweetString += " ";
+  tweetString += String(hour(t));
+  tweetString += ":";
+  tweetString += String(minute(t));
+  tweetString += ":";
+  tweetString += String(second(t));
+
+  return tweetString;
 }

@@ -7,6 +7,7 @@
 #include <MPU6050.h>   // 6軸加速度
 #include <Adafruit_Sensor.h>   // 照度
 #include <Adafruit_TSL2561_U.h>   // 照度
+#include <Adafruit_ADS1015.h>   // analog-I2C
 // ヘッダーファイル
 #include "wifi_set.h"
 #include "global_setup.h"
@@ -29,6 +30,8 @@ void setup() {
   bme280.readTrim();
 
   accelgyro.initialize();
+
+  ads.begin();
 
   ntp_begin(2390);
 
@@ -60,22 +63,22 @@ void loop() {
       - 温度の上がり具合の急激さで判断
   */
   if(temp_act - old_temp_act >= 1.0 && temp_act - old_temp_act <= 1.5){
-    tweetMsg("暖房つけた〜！");
+    tweetMsg(tweetString("暖房つけた〜！"));
     Serial.println("暖房つけた");
     old_temp_act = temp_act;
   }
   if(old_temp_act - temp_act >= 1.0 && old_temp_act - temp_act <= 1.5){
-    tweetMsg("暖房消した〜！");
+    tweetMsg(tweetString("暖房消した〜！"));
     Serial.println("暖房消した");
    old_temp_act = temp_act;
   }
 
   if(old_lux >= 71.0 && lux.light <= 21){
-    tweetMsg("電気消した！");
+    tweetMsg(tweetString("電気消した！"));
     Serial.println("電気消した");
   }
   if(old_lux <= 43.0 && lux.light >= 71.0){
-    tweetMsg("電気つけた！");
+    tweetMsg(tweetString("電気つけた！"));
     Serial.println("電気つけた");
   }
   // if(lux.light - old_lux => 250){ /* カーテン開けた */ }

@@ -1,0 +1,525 @@
+------------------  1/19 3:36:6  ------------------   Temperature:24.05DegC / Pressure:1014.60hPa / Humidity:24.04% / Acceleration:27.60g / LUX:101.00lux / sound:0 / ans:0
+------------------  1/19 3:37:6  ------------------   Temperature:23.98DegC / Pressure:1014.60hPa / Humidity:24.56% / Acceleration:18.21g / LUX:101.00lux / sound:0 / ans:0
+------------------  1/19 3:38:6  ------------------   Temperature:23.85DegC / Pressure:1014.54hPa / Humidity:23.89% / Acceleration:21.52g / LUX:101.00lux / sound:0 / ans:0
+------------------  1/19 3:39:7  ------------------   Temperature:23.81DegC / Pressure:1014.40hPa / Humidity:23.69% / Acceleration:16.12g / LUX:86.00lux / sound:0 / ans:0
+------------------  1/19 3:40:7  ------------------   Temperature:23.78DegC / Pressure:1014.40hPa / Humidity:23.69% / Acceleration:27.68g / LUX:101.00lux / sound:0 / ans:0
+------------------  1/19 3:41:7  ------------------   Temperature:23.76DegC / Pressure:1014.38hPa / Humidity:23.60% / Acceleration:6.68g / LUX:86.00lux / sound:0 / ans:0
+------------------  1/19 3:42:7  ------------------   Temperature:23.68DegC / Pressure:1014.49hPa / Humidity:23.74% / Acceleration:8.11g / LUX:86.00lux / sound:0 / ans:0
+------------------  1/19 3:43:7  ------------------   Temperature:23.56DegC / Pressure:1014.38hPa / Humidity:23.88% / Acceleration:18.22g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 3:44:7  ------------------   Temperature:23.54DegC / Pressure:1014.38hPa / Humidity:23.87% / Acceleration:6.62g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 3:45:7  ------------------   Temperature:23.48DegC / Pressure:1014.38hPa / Humidity:23.84% / Acceleration:20.71g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 3:46:7  ------------------   Temperature:23.44DegC / Pressure:1014.38hPa / Humidity:23.86% / Acceleration:14.33g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 3:47:7  ------------------   Temperature:23.38DegC / Pressure:1014.46hPa / Humidity:24.03% / Acceleration:17.58g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 3:48:7  ------------------   Temperature:23.30DegC / Pressure:1014.52hPa / Humidity:24.13% / Acceleration:15.83g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 3:49:8  ------------------   Temperature:23.24DegC / Pressure:1014.57hPa / Humidity:24.21% / Acceleration:13.53g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 3:50:8  ------------------   Temperature:23.19DegC / Pressure:1014.49hPa / Humidity:24.15% / Acceleration:69.54g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 3:51:8  ------------------   Temperature:23.14DegC / Pressure:1014.49hPa / Humidity:24.25% / Acceleration:22.80g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 3:52:8  ------------------   Temperature:23.07DegC / Pressure:1014.40hPa / Humidity:24.37% / Acceleration:23.23g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 3:53:8  ------------------   Temperature:22.99DegC / Pressure:1014.46hPa / Humidity:24.60% / Acceleration:42.73g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 3:54:8  ------------------   Temperature:22.93DegC / Pressure:1014.40hPa / Humidity:24.62% / Acceleration:11.87g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 3:55:8  ------------------   Temperature:22.86DegC / Pressure:1014.32hPa / Humidity:24.67% / Acceleration:22.83g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 3:56:8  ------------------   Temperature:22.80DegC / Pressure:1014.38hPa / Humidity:24.88% / Acceleration:13.67g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 3:57:8  ------------------   Temperature:22.74DegC / Pressure:1014.38hPa / Humidity:24.96% / Acceleration:26.80g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 3:58:8  ------------------   Temperature:22.66DegC / Pressure:1014.49hPa / Humidity:25.10% / Acceleration:2.15g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 3:59:9  ------------------   Temperature:22.62DegC / Pressure:1014.49hPa / Humidity:25.13% / Acceleration:20.91g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:0:9  ------------------   Temperature:22.52DegC / Pressure:1014.43hPa / Humidity:25.30% / Acceleration:12.67g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:1:9  ------------------   Temperature:22.48DegC / Pressure:1014.46hPa / Humidity:25.35% / Acceleration:24.51g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:2:9  ------------------   Temperature:22.41DegC / Pressure:1014.51hPa / Humidity:25.49% / Acceleration:51.08g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:3:9  ------------------   Temperature:22.35DegC / Pressure:1014.49hPa / Humidity:25.60% / Acceleration:48.45g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:4:10  ------------------   Temperature:22.28DegC / Pressure:1014.49hPa / Humidity:25.65% / Acceleration:45.72g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:5:10  ------------------   Temperature:22.22DegC / Pressure:1014.49hPa / Humidity:25.75% / Acceleration:11.15g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:6:10  ------------------   Temperature:22.15DegC / Pressure:1014.49hPa / Humidity:25.87% / Acceleration:8.65g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:7:10  ------------------   Temperature:22.09DegC / Pressure:1014.49hPa / Humidity:26.01% / Acceleration:5.30g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:8:10  ------------------   Temperature:22.02DegC / Pressure:1014.49hPa / Humidity:26.15% / Acceleration:16.32g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:9:10  ------------------   Temperature:21.96DegC / Pressure:1014.43hPa / Humidity:26.23% / Acceleration:16.87g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:10:10  ------------------   Temperature:21.90DegC / Pressure:1014.51hPa / Humidity:26.43% / Acceleration:46.77g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:11:10  ------------------   Temperature:21.83DegC / Pressure:1014.46hPa / Humidity:26.50% / Acceleration:2.91g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:12:10  ------------------   Temperature:21.76DegC / Pressure:1014.40hPa / Humidity:26.58% / Acceleration:12.34g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:13:10  ------------------   Temperature:21.69DegC / Pressure:1014.35hPa / Humidity:26.70% / Acceleration:43.61g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:14:11  ------------------   Temperature:21.65DegC / Pressure:1014.43hPa / Humidity:26.82% / Acceleration:31.42g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:15:11  ------------------   Temperature:21.60DegC / Pressure:1014.40hPa / Humidity:26.88% / Acceleration:27.67g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:16:11  ------------------   Temperature:21.55DegC / Pressure:1014.35hPa / Humidity:26.97% / Acceleration:67.23g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:17:11  ------------------   Temperature:21.48DegC / Pressure:1014.43hPa / Humidity:27.13% / Acceleration:12.92g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:18:11  ------------------   Temperature:21.44DegC / Pressure:1014.49hPa / Humidity:27.27% / Acceleration:47.24g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:19:12  ------------------   Temperature:21.39DegC / Pressure:1014.51hPa / Humidity:27.33% / Acceleration:15.89g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:20:12  ------------------   Temperature:21.34DegC / Pressure:1014.46hPa / Humidity:27.38% / Acceleration:11.71g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:21:12  ------------------   Temperature:21.28DegC / Pressure:1014.46hPa / Humidity:27.45% / Acceleration:20.65g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:22:12  ------------------   Temperature:21.22DegC / Pressure:1014.39hPa / Humidity:27.55% / Acceleration:4.53g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:23:12  ------------------   Temperature:21.19DegC / Pressure:1014.54hPa / Humidity:27.64% / Acceleration:21.77g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:24:12  ------------------   Temperature:21.12DegC / Pressure:1014.51hPa / Humidity:27.69% / Acceleration:36.24g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:25:12  ------------------   Temperature:21.09DegC / Pressure:1014.49hPa / Humidity:27.77% / Acceleration:8.58g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:26:12  ------------------   Temperature:21.03DegC / Pressure:1014.51hPa / Humidity:27.85% / Acceleration:60.28g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:27:12  ------------------   Temperature:20.99DegC / Pressure:1014.65hPa / Humidity:27.91% / Acceleration:43.23g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:28:12  ------------------   Temperature:20.95DegC / Pressure:1014.59hPa / Humidity:27.97% / Acceleration:11.17g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:29:13  ------------------   Temperature:20.90DegC / Pressure:1014.62hPa / Humidity:28.00% / Acceleration:12.04g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:30:13  ------------------   Temperature:20.85DegC / Pressure:1014.54hPa / Humidity:28.12% / Acceleration:31.06g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:31:13  ------------------   Temperature:20.80DegC / Pressure:1014.59hPa / Humidity:28.22% / Acceleration:13.09g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:32:13  ------------------   Temperature:20.76DegC / Pressure:1014.65hPa / Humidity:28.19% / Acceleration:44.24g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:33:13  ------------------   Temperature:20.71DegC / Pressure:1014.62hPa / Humidity:28.32% / Acceleration:9.46g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:34:14  ------------------   Temperature:20.68DegC / Pressure:1014.67hPa / Humidity:28.39% / Acceleration:19.65g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:35:14  ------------------   Temperature:20.63DegC / Pressure:1014.64hPa / Humidity:28.50% / Acceleration:19.16g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:36:14  ------------------   Temperature:20.59DegC / Pressure:1014.59hPa / Humidity:28.56% / Acceleration:33.53g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:37:14  ------------------   Temperature:20.55DegC / Pressure:1014.62hPa / Humidity:28.60% / Acceleration:5.27g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:38:14  ------------------   Temperature:20.51DegC / Pressure:1014.51hPa / Humidity:28.67% / Acceleration:38.58g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:39:14  ------------------   Temperature:20.47DegC / Pressure:1014.59hPa / Humidity:28.75% / Acceleration:30.65g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:40:14  ------------------   Temperature:20.43DegC / Pressure:1014.51hPa / Humidity:28.78% / Acceleration:26.17g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:41:14  ------------------   Temperature:20.39DegC / Pressure:1014.56hPa / Humidity:28.89% / Acceleration:15.43g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:42:14  ------------------   Temperature:20.35DegC / Pressure:1014.56hPa / Humidity:28.92% / Acceleration:13.89g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:43:14  ------------------   Temperature:20.31DegC / Pressure:1014.54hPa / Humidity:29.01% / Acceleration:15.99g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:44:15  ------------------   Temperature:20.28DegC / Pressure:1014.59hPa / Humidity:29.08% / Acceleration:16.52g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:45:15  ------------------   Temperature:20.24DegC / Pressure:1014.67hPa / Humidity:29.12% / Acceleration:30.74g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:46:15  ------------------   Temperature:20.20DegC / Pressure:1014.65hPa / Humidity:29.20% / Acceleration:26.39g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:47:15  ------------------   Temperature:20.16DegC / Pressure:1014.59hPa / Humidity:29.25% / Acceleration:4.15g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:48:15  ------------------   Temperature:20.12DegC / Pressure:1014.65hPa / Humidity:29.28% / Acceleration:21.55g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:49:16  ------------------   Temperature:20.09DegC / Pressure:1014.59hPa / Humidity:29.36% / Acceleration:21.68g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:50:16  ------------------   Temperature:20.05DegC / Pressure:1014.64hPa / Humidity:29.41% / Acceleration:33.95g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:51:16  ------------------   Temperature:20.02DegC / Pressure:1014.59hPa / Humidity:29.42% / Acceleration:35.22g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:52:16  ------------------   Temperature:19.99DegC / Pressure:1014.56hPa / Humidity:29.55% / Acceleration:3.20g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:53:16  ------------------   Temperature:19.95DegC / Pressure:1014.46hPa / Humidity:29.62% / Acceleration:5.62g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:54:16  ------------------   Temperature:19.92DegC / Pressure:1014.51hPa / Humidity:29.63% / Acceleration:15.97g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:55:16  ------------------   Temperature:19.90DegC / Pressure:1014.48hPa / Humidity:29.68% / Acceleration:39.92g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:56:16  ------------------   Temperature:19.86DegC / Pressure:1014.54hPa / Humidity:29.72% / Acceleration:12.88g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:57:16  ------------------   Temperature:19.83DegC / Pressure:1014.43hPa / Humidity:29.83% / Acceleration:18.76g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:58:16  ------------------   Temperature:19.81DegC / Pressure:1014.39hPa / Humidity:29.82% / Acceleration:40.07g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 4:59:17  ------------------   Temperature:19.78DegC / Pressure:1014.35hPa / Humidity:29.88% / Acceleration:6.73g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:0:17  ------------------   Temperature:19.76DegC / Pressure:1014.43hPa / Humidity:29.86% / Acceleration:14.94g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:1:17  ------------------   Temperature:19.70DegC / Pressure:1014.46hPa / Humidity:29.96% / Acceleration:39.69g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:2:17  ------------------   Temperature:19.71DegC / Pressure:1014.51hPa / Humidity:29.87% / Acceleration:28.44g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:3:17  ------------------   Temperature:19.66DegC / Pressure:1014.43hPa / Humidity:29.97% / Acceleration:10.78g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:4:18  ------------------   Temperature:19.65DegC / Pressure:1014.39hPa / Humidity:30.03% / Acceleration:6.81g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:5:18  ------------------   Temperature:19.63DegC / Pressure:1014.43hPa / Humidity:30.16% / Acceleration:5.73g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:6:18  ------------------   Temperature:19.60DegC / Pressure:1014.46hPa / Humidity:30.25% / Acceleration:4.34g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:7:18  ------------------   Temperature:19.58DegC / Pressure:1014.48hPa / Humidity:30.36% / Acceleration:11.14g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:8:18  ------------------   Temperature:19.56DegC / Pressure:1014.48hPa / Humidity:30.35% / Acceleration:20.63g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:9:18  ------------------   Temperature:19.54DegC / Pressure:1014.51hPa / Humidity:30.44% / Acceleration:27.58g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:10:18  ------------------   Temperature:19.51DegC / Pressure:1014.51hPa / Humidity:30.48% / Acceleration:8.99g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:11:18  ------------------   Temperature:19.48DegC / Pressure:1014.43hPa / Humidity:30.53% / Acceleration:7.98g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:12:18  ------------------   Temperature:19.44DegC / Pressure:1014.43hPa / Humidity:30.67% / Acceleration:15.81g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:13:18  ------------------   Temperature:19.41DegC / Pressure:1014.48hPa / Humidity:30.75% / Acceleration:12.80g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:14:19  ------------------   Temperature:19.40DegC / Pressure:1014.51hPa / Humidity:30.87% / Acceleration:11.44g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:15:19  ------------------   Temperature:19.37DegC / Pressure:1014.43hPa / Humidity:30.88% / Acceleration:6.53g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:16:19  ------------------   Temperature:19.36DegC / Pressure:1014.48hPa / Humidity:30.86% / Acceleration:13.53g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:17:19  ------------------   Temperature:19.32DegC / Pressure:1014.46hPa / Humidity:31.00% / Acceleration:15.11g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:18:19  ------------------   Temperature:19.30DegC / Pressure:1014.46hPa / Humidity:31.01% / Acceleration:12.52g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:19:19  ------------------   Temperature:19.26DegC / Pressure:1014.51hPa / Humidity:31.07% / Acceleration:2.86g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:20:19  ------------------   Temperature:19.24DegC / Pressure:1014.54hPa / Humidity:31.13% / Acceleration:49.74g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:21:19  ------------------   Temperature:19.23DegC / Pressure:1014.51hPa / Humidity:31.14% / Acceleration:22.49g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:22:19  ------------------   Temperature:19.19DegC / Pressure:1014.39hPa / Humidity:31.20% / Acceleration:33.33g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:23:19  ------------------   Temperature:19.16DegC / Pressure:1014.38hPa / Humidity:31.30% / Acceleration:29.65g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:24:20  ------------------   Temperature:19.15DegC / Pressure:1014.48hPa / Humidity:31.25% / Acceleration:15.27g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:25:20  ------------------   Temperature:19.13DegC / Pressure:1014.56hPa / Humidity:31.28% / Acceleration:12.96g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:26:20  ------------------   Temperature:19.12DegC / Pressure:1014.64hPa / Humidity:31.33% / Acceleration:30.24g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:27:20  ------------------   Temperature:19.09DegC / Pressure:1014.51hPa / Humidity:31.36% / Acceleration:42.83g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:28:20  ------------------   Temperature:19.07DegC / Pressure:1014.51hPa / Humidity:31.40% / Acceleration:19.37g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:29:21  ------------------   Temperature:19.06DegC / Pressure:1014.56hPa / Humidity:31.26% / Acceleration:6.03g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:30:21  ------------------   Temperature:19.04DegC / Pressure:1014.54hPa / Humidity:31.30% / Acceleration:17.65g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:31:21  ------------------   Temperature:19.02DegC / Pressure:1014.54hPa / Humidity:31.30% / Acceleration:20.96g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:32:21  ------------------   Temperature:18.99DegC / Pressure:1014.54hPa / Humidity:31.37% / Acceleration:23.58g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:33:21  ------------------   Temperature:18.98DegC / Pressure:1014.62hPa / Humidity:31.28% / Acceleration:133.19g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:34:21  ------------------   Temperature:18.95DegC / Pressure:1014.51hPa / Humidity:31.40% / Acceleration:22.83g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:35:21  ------------------   Temperature:18.92DegC / Pressure:1014.59hPa / Humidity:31.39% / Acceleration:19.89g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:36:21  ------------------   Temperature:18.89DegC / Pressure:1014.56hPa / Humidity:31.53% / Acceleration:4.96g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:37:21  ------------------   Temperature:18.89DegC / Pressure:1014.56hPa / Humidity:31.52% / Acceleration:12.77g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:38:21  ------------------   Temperature:18.88DegC / Pressure:1014.54hPa / Humidity:31.67% / Acceleration:4.49g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:39:22  ------------------   Temperature:18.85DegC / Pressure:1014.62hPa / Humidity:31.62% / Acceleration:15.45g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:40:22  ------------------   Temperature:18.81DegC / Pressure:1014.64hPa / Humidity:31.76% / Acceleration:9.76g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:41:22  ------------------   Temperature:18.80DegC / Pressure:1014.62hPa / Humidity:31.71% / Acceleration:8.16g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:42:22  ------------------   Temperature:18.78DegC / Pressure:1014.62hPa / Humidity:31.74% / Acceleration:67.49g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:43:22  ------------------   Temperature:18.76DegC / Pressure:1014.59hPa / Humidity:31.81% / Acceleration:13.23g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:44:23  ------------------   Temperature:18.74DegC / Pressure:1014.56hPa / Humidity:31.91% / Acceleration:14.07g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:45:23  ------------------   Temperature:18.74DegC / Pressure:1014.56hPa / Humidity:31.89% / Acceleration:21.79g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:46:23  ------------------   Temperature:18.71DegC / Pressure:1014.56hPa / Humidity:31.92% / Acceleration:12.18g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:47:23  ------------------   Temperature:18.70DegC / Pressure:1014.62hPa / Humidity:31.92% / Acceleration:21.15g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:48:23  ------------------   Temperature:18.68DegC / Pressure:1014.62hPa / Humidity:31.95% / Acceleration:38.76g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:49:23  ------------------   Temperature:18.66DegC / Pressure:1014.59hPa / Humidity:31.98% / Acceleration:23.27g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:50:23  ------------------   Temperature:18.64DegC / Pressure:1014.59hPa / Humidity:32.03% / Acceleration:21.53g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:51:23  ------------------   Temperature:18.61DegC / Pressure:1014.67hPa / Humidity:32.06% / Acceleration:18.54g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:52:23  ------------------   Temperature:18.61DegC / Pressure:1014.56hPa / Humidity:32.08% / Acceleration:15.83g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:53:23  ------------------   Temperature:18.59DegC / Pressure:1014.56hPa / Humidity:32.10% / Acceleration:15.35g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:54:24  ------------------   Temperature:18.58DegC / Pressure:1014.62hPa / Humidity:32.13% / Acceleration:36.51g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:55:24  ------------------   Temperature:18.56DegC / Pressure:1014.62hPa / Humidity:32.14% / Acceleration:3.80g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:56:24  ------------------   Temperature:18.54DegC / Pressure:1014.59hPa / Humidity:32.17% / Acceleration:24.32g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:57:24  ------------------   Temperature:18.53DegC / Pressure:1014.62hPa / Humidity:32.18% / Acceleration:24.95g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:58:24  ------------------   Temperature:18.49DegC / Pressure:1014.54hPa / Humidity:32.29% / Acceleration:8.06g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 5:59:25  ------------------   Temperature:18.49DegC / Pressure:1014.64hPa / Humidity:32.29% / Acceleration:35.34g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:0:25  ------------------   Temperature:18.47DegC / Pressure:1014.67hPa / Humidity:32.31% / Acceleration:3.61g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:1:25  ------------------   Temperature:18.45DegC / Pressure:1014.62hPa / Humidity:32.35% / Acceleration:34.32g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:2:25  ------------------   Temperature:18.44DegC / Pressure:1014.67hPa / Humidity:32.33% / Acceleration:16.12g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:3:25  ------------------   Temperature:18.43DegC / Pressure:1014.70hPa / Humidity:32.35% / Acceleration:25.48g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:4:25  ------------------   Temperature:18.40DegC / Pressure:1014.67hPa / Humidity:32.40% / Acceleration:5.50g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:5:25  ------------------   Temperature:18.39DegC / Pressure:1014.75hPa / Humidity:32.43% / Acceleration:14.47g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:6:25  ------------------   Temperature:18.38DegC / Pressure:1014.64hPa / Humidity:32.44% / Acceleration:32.29g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:7:25  ------------------   Temperature:18.35DegC / Pressure:1014.67hPa / Humidity:32.48% / Acceleration:2.83g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:8:25  ------------------   Temperature:18.35DegC / Pressure:1014.67hPa / Humidity:32.58% / Acceleration:10.03g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:9:26  ------------------   Temperature:18.33DegC / Pressure:1014.72hPa / Humidity:32.58% / Acceleration:13.89g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:10:26  ------------------   Temperature:18.31DegC / Pressure:1014.75hPa / Humidity:32.59% / Acceleration:5.56g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:11:26  ------------------   Temperature:18.28DegC / Pressure:1014.72hPa / Humidity:32.63% / Acceleration:50.27g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:12:26  ------------------   Temperature:18.27DegC / Pressure:1014.64hPa / Humidity:32.68% / Acceleration:28.62g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:13:26  ------------------   Temperature:18.27DegC / Pressure:1014.72hPa / Humidity:32.71% / Acceleration:24.41g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:14:26  ------------------   Temperature:18.24DegC / Pressure:1014.70hPa / Humidity:32.73% / Acceleration:23.75g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:15:26  ------------------   Temperature:18.21DegC / Pressure:1014.67hPa / Humidity:32.79% / Acceleration:14.82g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:16:26  ------------------   Temperature:18.22DegC / Pressure:1014.67hPa / Humidity:32.82% / Acceleration:20.40g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:17:26  ------------------   Temperature:18.20DegC / Pressure:1014.75hPa / Humidity:32.86% / Acceleration:21.33g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:18:26  ------------------   Temperature:18.19DegC / Pressure:1014.78hPa / Humidity:32.84% / Acceleration:21.48g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:19:27  ------------------   Temperature:18.17DegC / Pressure:1014.70hPa / Humidity:32.91% / Acceleration:13.92g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:20:27  ------------------   Temperature:18.15DegC / Pressure:1014.72hPa / Humidity:32.97% / Acceleration:23.88g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:21:27  ------------------   Temperature:18.14DegC / Pressure:1014.83hPa / Humidity:32.99% / Acceleration:10.69g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:22:27  ------------------   Temperature:18.13DegC / Pressure:1014.75hPa / Humidity:33.02% / Acceleration:40.27g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:23:27  ------------------   Temperature:18.12DegC / Pressure:1014.80hPa / Humidity:33.05% / Acceleration:16.06g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:24:28  ------------------   Temperature:18.10DegC / Pressure:1014.69hPa / Humidity:33.06% / Acceleration:3.97g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:25:28  ------------------   Temperature:18.09DegC / Pressure:1014.67hPa / Humidity:33.09% / Acceleration:29.13g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:26:28  ------------------   Temperature:18.08DegC / Pressure:1014.80hPa / Humidity:33.11% / Acceleration:16.26g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:27:28  ------------------   Temperature:18.06DegC / Pressure:1014.72hPa / Humidity:33.24% / Acceleration:18.88g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:28:28  ------------------   Temperature:18.06DegC / Pressure:1014.72hPa / Humidity:33.23% / Acceleration:42.18g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:29:28  ------------------   Temperature:18.03DegC / Pressure:1014.77hPa / Humidity:33.26% / Acceleration:8.12g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:30:28  ------------------   Temperature:18.00DegC / Pressure:1014.75hPa / Humidity:33.36% / Acceleration:8.89g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:31:28  ------------------   Temperature:18.00DegC / Pressure:1014.72hPa / Humidity:33.34% / Acceleration:7.73g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:32:28  ------------------   Temperature:17.99DegC / Pressure:1014.75hPa / Humidity:33.28% / Acceleration:7.46g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:33:28  ------------------   Temperature:17.96DegC / Pressure:1014.67hPa / Humidity:33.38% / Acceleration:23.23g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:34:29  ------------------   Temperature:17.93DegC / Pressure:1014.69hPa / Humidity:33.44% / Acceleration:13.65g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:35:29  ------------------   Temperature:17.93DegC / Pressure:1014.70hPa / Humidity:33.46% / Acceleration:8.16g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:36:29  ------------------   Temperature:17.89DegC / Pressure:1014.59hPa / Humidity:33.54% / Acceleration:5.92g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:37:29  ------------------   Temperature:17.91DegC / Pressure:1014.72hPa / Humidity:33.56% / Acceleration:49.43g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:38:29  ------------------   Temperature:17.90DegC / Pressure:1014.70hPa / Humidity:33.55% / Acceleration:10.87g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:39:30  ------------------   Temperature:17.89DegC / Pressure:1014.67hPa / Humidity:33.56% / Acceleration:7.93g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:40:30  ------------------   Temperature:17.90DegC / Pressure:1014.70hPa / Humidity:33.51% / Acceleration:16.24g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:41:30  ------------------   Temperature:17.88DegC / Pressure:1014.72hPa / Humidity:33.60% / Acceleration:26.37g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:42:30  ------------------   Temperature:17.86DegC / Pressure:1014.72hPa / Humidity:33.66% / Acceleration:16.35g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:43:30  ------------------   Temperature:17.85DegC / Pressure:1014.75hPa / Humidity:33.70% / Acceleration:19.38g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:44:30  ------------------   Temperature:17.84DegC / Pressure:1014.72hPa / Humidity:33.78% / Acceleration:32.05g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:45:30  ------------------   Temperature:17.82DegC / Pressure:1014.85hPa / Humidity:33.79% / Acceleration:19.56g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:46:30  ------------------   Temperature:17.81DegC / Pressure:1014.85hPa / Humidity:33.84% / Acceleration:4.29g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:47:30  ------------------   Temperature:17.81DegC / Pressure:1014.80hPa / Humidity:33.87% / Acceleration:14.58g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:48:30  ------------------   Temperature:17.80DegC / Pressure:1014.77hPa / Humidity:33.85% / Acceleration:5.06g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:49:31  ------------------   Temperature:17.78DegC / Pressure:1014.86hPa / Humidity:33.91% / Acceleration:27.59g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:50:31  ------------------   Temperature:17.77DegC / Pressure:1014.86hPa / Humidity:33.91% / Acceleration:15.70g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:51:31  ------------------   Temperature:17.75DegC / Pressure:1014.80hPa / Humidity:33.95% / Acceleration:14.95g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:52:31  ------------------   Temperature:17.74DegC / Pressure:1014.75hPa / Humidity:33.97% / Acceleration:22.84g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:53:31  ------------------   Temperature:17.73DegC / Pressure:1014.77hPa / Humidity:33.95% / Acceleration:5.91g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:54:32  ------------------   Temperature:17.71DegC / Pressure:1014.80hPa / Humidity:33.98% / Acceleration:21.44g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:55:32  ------------------   Temperature:17.73DegC / Pressure:1014.83hPa / Humidity:33.98% / Acceleration:7.05g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:56:32  ------------------   Temperature:17.70DegC / Pressure:1014.80hPa / Humidity:34.06% / Acceleration:7.41g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:57:32  ------------------   Temperature:17.69DegC / Pressure:1014.83hPa / Humidity:34.06% / Acceleration:7.75g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:58:32  ------------------   Temperature:17.66DegC / Pressure:1014.77hPa / Humidity:34.03% / Acceleration:21.46g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 6:59:32  ------------------   Temperature:17.64DegC / Pressure:1014.78hPa / Humidity:34.05% / Acceleration:27.92g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:0:32  ------------------   Temperature:17.66DegC / Pressure:1014.72hPa / Humidity:34.04% / Acceleration:16.20g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:1:32  ------------------   Temperature:17.66DegC / Pressure:1014.78hPa / Humidity:34.05% / Acceleration:8.31g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:2:32  ------------------   Temperature:17.65DegC / Pressure:1014.75hPa / Humidity:34.10% / Acceleration:4.92g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:3:32  ------------------   Temperature:17.64DegC / Pressure:1014.75hPa / Humidity:34.11% / Acceleration:30.56g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:4:33  ------------------   Temperature:17.61DegC / Pressure:1014.75hPa / Humidity:34.25% / Acceleration:9.67g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:5:33  ------------------   Temperature:17.59DegC / Pressure:1014.75hPa / Humidity:34.23% / Acceleration:18.96g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:6:33  ------------------   Temperature:17.61DegC / Pressure:1014.80hPa / Humidity:34.17% / Acceleration:36.05g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:7:33  ------------------   Temperature:17.57DegC / Pressure:1014.75hPa / Humidity:34.30% / Acceleration:21.27g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:8:33  ------------------   Temperature:17.57DegC / Pressure:1014.80hPa / Humidity:34.30% / Acceleration:18.67g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:9:34  ------------------   Temperature:17.55DegC / Pressure:1014.78hPa / Humidity:34.39% / Acceleration:12.93g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:10:34  ------------------   Temperature:17.56DegC / Pressure:1014.88hPa / Humidity:34.37% / Acceleration:13.24g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:11:34  ------------------   Temperature:17.53DegC / Pressure:1014.75hPa / Humidity:34.38% / Acceleration:9.31g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:12:34  ------------------   Temperature:17.53DegC / Pressure:1014.77hPa / Humidity:34.43% / Acceleration:12.27g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:13:34  ------------------   Temperature:17.52DegC / Pressure:1014.75hPa / Humidity:34.42% / Acceleration:46.16g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:14:34  ------------------   Temperature:17.51DegC / Pressure:1014.80hPa / Humidity:34.45% / Acceleration:12.73g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:15:34  ------------------   Temperature:17.49DegC / Pressure:1014.75hPa / Humidity:34.47% / Acceleration:6.93g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:16:34  ------------------   Temperature:17.50DegC / Pressure:1014.80hPa / Humidity:34.46% / Acceleration:64.21g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:17:34  ------------------   Temperature:17.49DegC / Pressure:1014.83hPa / Humidity:34.48% / Acceleration:25.20g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:18:34  ------------------   Temperature:17.48DegC / Pressure:1014.80hPa / Humidity:34.51% / Acceleration:19.15g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:19:35  ------------------   Temperature:17.47DegC / Pressure:1014.69hPa / Humidity:34.47% / Acceleration:33.55g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:20:35  ------------------   Temperature:17.46DegC / Pressure:1014.75hPa / Humidity:34.57% / Acceleration:8.12g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:21:35  ------------------   Temperature:17.45DegC / Pressure:1014.72hPa / Humidity:34.54% / Acceleration:27.94g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:22:35  ------------------   Temperature:17.45DegC / Pressure:1014.75hPa / Humidity:34.56% / Acceleration:8.88g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:23:35  ------------------   Temperature:17.44DegC / Pressure:1014.75hPa / Humidity:34.53% / Acceleration:5.95g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:24:35  ------------------   Temperature:17.44DegC / Pressure:1014.80hPa / Humidity:34.58% / Acceleration:23.50g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:25:35  ------------------   Temperature:17.42DegC / Pressure:1014.78hPa / Humidity:34.68% / Acceleration:23.70g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:26:35  ------------------   Temperature:17.41DegC / Pressure:1014.75hPa / Humidity:34.74% / Acceleration:37.67g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:27:35  ------------------   Temperature:17.40DegC / Pressure:1014.85hPa / Humidity:34.76% / Acceleration:23.78g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:28:35  ------------------   Temperature:17.40DegC / Pressure:1014.85hPa / Humidity:34.74% / Acceleration:13.81g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:29:36  ------------------   Temperature:17.37DegC / Pressure:1014.83hPa / Humidity:34.79% / Acceleration:12.68g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:30:36  ------------------   Temperature:17.37DegC / Pressure:1014.83hPa / Humidity:34.80% / Acceleration:11.38g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:31:36  ------------------   Temperature:17.36DegC / Pressure:1014.88hPa / Humidity:34.85% / Acceleration:3.71g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:32:36  ------------------   Temperature:17.36DegC / Pressure:1014.83hPa / Humidity:34.85% / Acceleration:6.22g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:33:36  ------------------   Temperature:17.33DegC / Pressure:1014.85hPa / Humidity:34.90% / Acceleration:11.30g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:34:37  ------------------   Temperature:17.32DegC / Pressure:1014.85hPa / Humidity:34.93% / Acceleration:17.92g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:35:37  ------------------   Temperature:17.31DegC / Pressure:1014.85hPa / Humidity:34.94% / Acceleration:21.37g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:36:37  ------------------   Temperature:17.30DegC / Pressure:1014.85hPa / Humidity:34.96% / Acceleration:18.51g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:37:37  ------------------   Temperature:17.30DegC / Pressure:1014.91hPa / Humidity:34.91% / Acceleration:23.65g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:38:37  ------------------   Temperature:17.28DegC / Pressure:1014.93hPa / Humidity:34.98% / Acceleration:7.18g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:39:37  ------------------   Temperature:17.28DegC / Pressure:1014.99hPa / Humidity:34.95% / Acceleration:21.98g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:40:37  ------------------   Temperature:17.27DegC / Pressure:1014.96hPa / Humidity:34.99% / Acceleration:10.30g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:41:37  ------------------   Temperature:17.26DegC / Pressure:1015.01hPa / Humidity:35.03% / Acceleration:5.05g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:42:37  ------------------   Temperature:17.25DegC / Pressure:1014.99hPa / Humidity:35.03% / Acceleration:18.14g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:43:37  ------------------   Temperature:17.25DegC / Pressure:1014.91hPa / Humidity:34.97% / Acceleration:39.78g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:44:38  ------------------   Temperature:17.26DegC / Pressure:1014.85hPa / Humidity:34.97% / Acceleration:13.54g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:45:38  ------------------   Temperature:17.24DegC / Pressure:1014.88hPa / Humidity:35.02% / Acceleration:33.42g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:46:38  ------------------   Temperature:17.24DegC / Pressure:1014.99hPa / Humidity:35.00% / Acceleration:38.66g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:47:38  ------------------   Temperature:17.22DegC / Pressure:1014.96hPa / Humidity:35.06% / Acceleration:15.87g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:48:38  ------------------   Temperature:17.21DegC / Pressure:1014.83hPa / Humidity:35.05% / Acceleration:20.91g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:49:39  ------------------   Temperature:17.21DegC / Pressure:1014.96hPa / Humidity:35.07% / Acceleration:28.58g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:50:39  ------------------   Temperature:17.19DegC / Pressure:1014.91hPa / Humidity:35.07% / Acceleration:9.32g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:51:39  ------------------   Temperature:17.19DegC / Pressure:1014.91hPa / Humidity:35.09% / Acceleration:12.54g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:52:39  ------------------   Temperature:17.20DegC / Pressure:1014.91hPa / Humidity:35.08% / Acceleration:17.02g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:53:39  ------------------   Temperature:17.17DegC / Pressure:1014.99hPa / Humidity:35.14% / Acceleration:17.74g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:54:39  ------------------   Temperature:17.16DegC / Pressure:1014.99hPa / Humidity:35.19% / Acceleration:4.25g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:55:39  ------------------   Temperature:17.15DegC / Pressure:1014.91hPa / Humidity:35.14% / Acceleration:21.29g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 7:56:39  ------------------   Temperature:17.14DegC / Pressure:1014.85hPa / Humidity:35.18% / Acceleration:35.42g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:57:39  ------------------   Temperature:17.13DegC / Pressure:1014.93hPa / Humidity:35.18% / Acceleration:22.95g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:58:39  ------------------   Temperature:17.13DegC / Pressure:1014.88hPa / Humidity:35.20% / Acceleration:35.16g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 7:59:40  ------------------   Temperature:17.13DegC / Pressure:1014.83hPa / Humidity:35.16% / Acceleration:10.94g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 8:0:40  ------------------   Temperature:17.11DegC / Pressure:1014.80hPa / Humidity:35.21% / Acceleration:19.96g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 8:1:40  ------------------   Temperature:17.09DegC / Pressure:1014.67hPa / Humidity:35.21% / Acceleration:9.98g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 8:2:40  ------------------   Temperature:17.09DegC / Pressure:1014.69hPa / Humidity:35.28% / Acceleration:9.20g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 8:3:40  ------------------   Temperature:17.09DegC / Pressure:1014.67hPa / Humidity:35.19% / Acceleration:19.14g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 8:4:41  ------------------   Temperature:17.10DegC / Pressure:1014.78hPa / Humidity:35.16% / Acceleration:25.53g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 8:5:41  ------------------   Temperature:17.09DegC / Pressure:1014.64hPa / Humidity:35.21% / Acceleration:7.22g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:6:41  ------------------   Temperature:17.08DegC / Pressure:1014.72hPa / Humidity:35.23% / Acceleration:15.65g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:7:41  ------------------   Temperature:17.07DegC / Pressure:1014.75hPa / Humidity:35.20% / Acceleration:16.00g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:8:41  ------------------   Temperature:17.07DegC / Pressure:1014.80hPa / Humidity:35.23% / Acceleration:37.90g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:9:41  ------------------   Temperature:17.05DegC / Pressure:1014.80hPa / Humidity:35.27% / Acceleration:6.87g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:10:41  ------------------   Temperature:17.03DegC / Pressure:1014.83hPa / Humidity:35.29% / Acceleration:8.30g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:11:41  ------------------   Temperature:17.02DegC / Pressure:1014.75hPa / Humidity:35.33% / Acceleration:7.93g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:12:41  ------------------   Temperature:17.03DegC / Pressure:1014.72hPa / Humidity:35.25% / Acceleration:23.82g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:13:41  ------------------   Temperature:17.01DegC / Pressure:1014.77hPa / Humidity:35.30% / Acceleration:38.58g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:14:42  ------------------   Temperature:17.00DegC / Pressure:1014.83hPa / Humidity:35.37% / Acceleration:13.95g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:15:42  ------------------   Temperature:17.00DegC / Pressure:1014.77hPa / Humidity:35.34% / Acceleration:10.74g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:16:42  ------------------   Temperature:16.99DegC / Pressure:1014.80hPa / Humidity:35.39% / Acceleration:4.76g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:17:42  ------------------   Temperature:17.00DegC / Pressure:1014.83hPa / Humidity:35.40% / Acceleration:52.42g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:18:42  ------------------   Temperature:17.00DegC / Pressure:1014.85hPa / Humidity:35.38% / Acceleration:17.42g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:19:43  ------------------   Temperature:17.00DegC / Pressure:1014.85hPa / Humidity:35.42% / Acceleration:42.47g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:20:43  ------------------   Temperature:16.99DegC / Pressure:1014.75hPa / Humidity:35.40% / Acceleration:18.41g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:21:43  ------------------   Temperature:16.99DegC / Pressure:1014.77hPa / Humidity:35.46% / Acceleration:19.70g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:22:43  ------------------   Temperature:16.99DegC / Pressure:1014.83hPa / Humidity:35.52% / Acceleration:41.29g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:23:43  ------------------   Temperature:16.98DegC / Pressure:1014.83hPa / Humidity:35.58% / Acceleration:14.94g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:24:43  ------------------   Temperature:16.97DegC / Pressure:1014.85hPa / Humidity:35.64% / Acceleration:13.59g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:25:43  ------------------   Temperature:16.97DegC / Pressure:1014.91hPa / Humidity:35.60% / Acceleration:17.43g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:26:43  ------------------   Temperature:16.96DegC / Pressure:1014.80hPa / Humidity:35.59% / Acceleration:8.01g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:27:43  ------------------   Temperature:16.96DegC / Pressure:1014.85hPa / Humidity:35.60% / Acceleration:2.45g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:28:43  ------------------   Temperature:16.95DegC / Pressure:1014.85hPa / Humidity:35.58% / Acceleration:15.40g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:29:44  ------------------   Temperature:16.94DegC / Pressure:1014.88hPa / Humidity:35.61% / Acceleration:2.74g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:30:44  ------------------   Temperature:16.93DegC / Pressure:1014.75hPa / Humidity:35.66% / Acceleration:20.03g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:31:44  ------------------   Temperature:16.93DegC / Pressure:1014.77hPa / Humidity:35.68% / Acceleration:20.94g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:32:44  ------------------   Temperature:16.94DegC / Pressure:1014.83hPa / Humidity:35.59% / Acceleration:61.24g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:33:44  ------------------   Temperature:16.94DegC / Pressure:1014.83hPa / Humidity:35.64% / Acceleration:11.90g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:34:45  ------------------   Temperature:16.92DegC / Pressure:1014.83hPa / Humidity:35.67% / Acceleration:16.37g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:35:45  ------------------   Temperature:16.91DegC / Pressure:1014.80hPa / Humidity:35.67% / Acceleration:21.84g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:36:45  ------------------   Temperature:16.91DegC / Pressure:1014.80hPa / Humidity:35.67% / Acceleration:12.02g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:37:45  ------------------   Temperature:16.91DegC / Pressure:1014.83hPa / Humidity:35.70% / Acceleration:29.78g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:38:45  ------------------   Temperature:16.91DegC / Pressure:1014.83hPa / Humidity:35.69% / Acceleration:26.30g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:39:45  ------------------   Temperature:16.89DegC / Pressure:1014.75hPa / Humidity:35.71% / Acceleration:12.53g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:40:45  ------------------   Temperature:16.90DegC / Pressure:1014.72hPa / Humidity:35.71% / Acceleration:10.51g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:41:45  ------------------   Temperature:16.90DegC / Pressure:1014.80hPa / Humidity:35.71% / Acceleration:10.76g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 8:42:45  ------------------   Temperature:16.88DegC / Pressure:1014.75hPa / Humidity:35.77% / Acceleration:5.68g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 8:43:45  ------------------   Temperature:16.88DegC / Pressure:1014.80hPa / Humidity:35.75% / Acceleration:6.65g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:44:46  ------------------   Temperature:16.87DegC / Pressure:1014.80hPa / Humidity:35.78% / Acceleration:17.54g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:45:46  ------------------   Temperature:16.87DegC / Pressure:1014.88hPa / Humidity:35.79% / Acceleration:43.82g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:46:46  ------------------   Temperature:16.86DegC / Pressure:1014.88hPa / Humidity:35.82% / Acceleration:12.99g / LUX:4.00lux / sound:0 / ans:0
+------------------  1/19 8:47:46  ------------------   Temperature:16.86DegC / Pressure:1014.85hPa / Humidity:35.85% / Acceleration:8.76g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:48:46  ------------------   Temperature:16.87DegC / Pressure:1014.80hPa / Humidity:35.84% / Acceleration:16.34g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 8:49:46  ------------------   Temperature:16.87DegC / Pressure:1014.85hPa / Humidity:35.82% / Acceleration:13.68g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 8:50:46  ------------------   Temperature:16.85DegC / Pressure:1014.80hPa / Humidity:35.86% / Acceleration:25.62g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:51:46  ------------------   Temperature:16.86DegC / Pressure:1014.77hPa / Humidity:35.86% / Acceleration:14.78g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 8:52:46  ------------------   Temperature:16.86DegC / Pressure:1014.75hPa / Humidity:35.89% / Acceleration:11.53g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 8:53:46  ------------------   Temperature:16.84DegC / Pressure:1014.75hPa / Humidity:35.96% / Acceleration:40.12g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 8:54:47  ------------------   Temperature:16.85DegC / Pressure:1014.77hPa / Humidity:36.20% / Acceleration:15.66g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 8:55:47  ------------------   Temperature:16.85DegC / Pressure:1014.75hPa / Humidity:36.21% / Acceleration:34.80g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 8:56:47  ------------------   Temperature:16.86DegC / Pressure:1014.83hPa / Humidity:36.12% / Acceleration:6.84g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:57:47  ------------------   Temperature:16.85DegC / Pressure:1014.72hPa / Humidity:36.01% / Acceleration:5.77g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:58:47  ------------------   Temperature:16.82DegC / Pressure:1014.69hPa / Humidity:36.02% / Acceleration:11.26g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 8:59:48  ------------------   Temperature:16.81DegC / Pressure:1014.67hPa / Humidity:35.99% / Acceleration:8.00g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 9:0:48  ------------------   Temperature:16.82DegC / Pressure:1014.69hPa / Humidity:35.98% / Acceleration:49.24g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 9:1:48  ------------------   Temperature:16.80DegC / Pressure:1014.72hPa / Humidity:36.05% / Acceleration:9.41g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 9:2:48  ------------------   Temperature:16.82DegC / Pressure:1014.75hPa / Humidity:36.02% / Acceleration:27.93g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 9:3:48  ------------------   Temperature:16.81DegC / Pressure:1014.67hPa / Humidity:36.03% / Acceleration:3.89g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 9:4:48  ------------------   Temperature:16.79DegC / Pressure:1014.72hPa / Humidity:36.05% / Acceleration:21.33g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 9:5:48  ------------------   Temperature:16.79DegC / Pressure:1014.69hPa / Humidity:36.03% / Acceleration:44.22g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 9:6:48  ------------------   Temperature:16.78DegC / Pressure:1014.67hPa / Humidity:36.03% / Acceleration:32.73g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 9:7:48  ------------------   Temperature:16.78DegC / Pressure:1014.75hPa / Humidity:36.05% / Acceleration:18.31g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 9:8:48  ------------------   Temperature:16.78DegC / Pressure:1014.69hPa / Humidity:36.02% / Acceleration:25.77g / LUX:'Sensor overload' / sound:0 / ans:0
+------------------  1/19 9:9:49  ------------------   Temperature:16.77DegC / Pressure:1014.67hPa / Humidity:36.00% / Acceleration:12.09g / LUX:4.00lux / sound:0 / ans:0
+------------------  1/19 9:10:49  ------------------   Temperature:16.79DegC / Pressure:1014.72hPa / Humidity:35.96% / Acceleration:11.18g / LUX:2.00lux / sound:0 / ans:0
+------------------  1/19 9:11:49  ------------------   Temperature:16.79DegC / Pressure:1014.64hPa / Humidity:35.93% / Acceleration:27.09g / LUX:2.00lux / sound:0 / ans:0
+------------------  1/19 9:12:49  ------------------   Temperature:16.79DegC / Pressure:1014.69hPa / Humidity:35.93% / Acceleration:11.37g / LUX:1.00lux / sound:0 / ans:0
+------------------  1/19 9:13:49  ------------------   Temperature:16.77DegC / Pressure:1014.67hPa / Humidity:35.96% / Acceleration:5.37g / LUX:2.00lux / sound:0 / ans:0
+------------------  1/19 9:14:50  ------------------   Temperature:16.77DegC / Pressure:1014.67hPa / Humidity:35.96% / Acceleration:31.70g / LUX:1.00lux / sound:0 / ans:0
+------------------  1/19 9:15:50  ------------------   Temperature:16.78DegC / Pressure:1014.64hPa / Humidity:35.99% / Acceleration:16.40g / LUX:1.00lux / sound:0 / ans:0
+------------------  1/19 9:16:50  ------------------   Temperature:16.78DegC / Pressure:1014.64hPa / Humidity:35.98% / Acceleration:12.54g / LUX:7.00lux / sound:0 / ans:0
+------------------  1/19 9:17:50  ------------------   Temperature:16.79DegC / Pressure:1014.59hPa / Humidity:35.98% / Acceleration:10.04g / LUX:2.00lux / sound:0 / ans:0
+------------------  1/19 9:18:50  ------------------   Temperature:16.78DegC / Pressure:1014.59hPa / Humidity:35.97% / Acceleration:9.55g / LUX:4.00lux / sound:0 / ans:0
+------------------  1/19 9:19:50  ------------------   Temperature:16.79DegC / Pressure:1014.51hPa / Humidity:35.96% / Acceleration:33.00g / LUX:3.00lux / sound:0 / ans:0
+------------------  1/19 9:20:50  ------------------   Temperature:16.80DegC / Pressure:1014.45hPa / Humidity:36.02% / Acceleration:12.41g / LUX:3.00lux / sound:0 / ans:0
+------------------  1/19 9:21:50  ------------------   Temperature:16.81DegC / Pressure:1014.48hPa / Humidity:35.95% / Acceleration:13.19g / LUX:5.00lux / sound:0 / ans:0
+------------------  1/19 9:22:50  ------------------   Temperature:16.82DegC / Pressure:1014.48hPa / Humidity:35.94% / Acceleration:4.53g / LUX:10.00lux / sound:0 / ans:0
+------------------  1/19 9:23:50  ------------------   Temperature:16.82DegC / Pressure:1014.48hPa / Humidity:36.02% / Acceleration:9.42g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 9:24:51  ------------------   Temperature:16.85DegC / Pressure:1014.48hPa / Humidity:36.11% / Acceleration:47.75g / LUX:12.00lux / sound:0 / ans:0
+------------------  1/19 9:25:51  ------------------   Temperature:16.86DegC / Pressure:1014.48hPa / Humidity:36.24% / Acceleration:6.52g / LUX:9.00lux / sound:0 / ans:0
+------------------  1/19 9:26:51  ------------------   Temperature:16.87DegC / Pressure:1014.29hPa / Humidity:36.38% / Acceleration:17.00g / LUX:9.00lux / sound:0 / ans:0
+------------------  1/19 9:27:51  ------------------   Temperature:16.90DegC / Pressure:1014.37hPa / Humidity:36.35% / Acceleration:4.26g / LUX:12.00lux / sound:0 / ans:0
+------------------  1/19 9:28:51  ------------------   Temperature:16.91DegC / Pressure:1014.45hPa / Humidity:36.45% / Acceleration:21.89g / LUX:5.00lux / sound:0 / ans:0
+------------------  1/19 9:29:51  ------------------   Temperature:16.92DegC / Pressure:1014.37hPa / Humidity:36.48% / Acceleration:6.84g / LUX:4.00lux / sound:0 / ans:0
+------------------  1/19 9:30:51  ------------------   Temperature:16.94DegC / Pressure:1014.48hPa / Humidity:36.38% / Acceleration:28.60g / LUX:12.00lux / sound:0 / ans:0
+------------------  1/19 9:31:51  ------------------   Temperature:16.95DegC / Pressure:1014.48hPa / Humidity:36.44% / Acceleration:11.84g / LUX:9.00lux / sound:0 / ans:0
+------------------  1/19 9:32:51  ------------------   Temperature:16.97DegC / Pressure:1014.43hPa / Humidity:36.37% / Acceleration:27.79g / LUX:8.00lux / sound:0 / ans:0
+------------------  1/19 9:33:51  ------------------   Temperature:16.99DegC / Pressure:1014.45hPa / Humidity:36.39% / Acceleration:8.43g / LUX:12.00lux / sound:0 / ans:0
+------------------  1/19 9:34:52  ------------------   Temperature:16.99DegC / Pressure:1014.48hPa / Humidity:36.43% / Acceleration:11.51g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 9:35:52  ------------------   Temperature:17.01DegC / Pressure:1014.39hPa / Humidity:36.38% / Acceleration:8.65g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 9:36:52  ------------------   Temperature:17.04DegC / Pressure:1014.43hPa / Humidity:36.29% / Acceleration:11.07g / LUX:9.00lux / sound:0 / ans:0
+------------------  1/19 9:37:52  ------------------   Temperature:17.07DegC / Pressure:1014.37hPa / Humidity:36.18% / Acceleration:24.98g / LUX:11.00lux / sound:0 / ans:0
+------------------  1/19 9:38:52  ------------------   Temperature:17.08DegC / Pressure:1014.37hPa / Humidity:36.22% / Acceleration:21.61g / LUX:10.00lux / sound:0 / ans:0
+------------------  1/19 9:39:53  ------------------   Temperature:17.11DegC / Pressure:1014.53hPa / Humidity:36.17% / Acceleration:41.36g / LUX:9.00lux / sound:0 / ans:0
+------------------  1/19 9:40:53  ------------------   Temperature:17.13DegC / Pressure:1014.53hPa / Humidity:36.19% / Acceleration:14.52g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 9:41:53  ------------------   Temperature:17.14DegC / Pressure:1014.59hPa / Humidity:36.13% / Acceleration:13.00g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 9:42:53  ------------------   Temperature:17.16DegC / Pressure:1014.56hPa / Humidity:36.08% / Acceleration:37.94g / LUX:5.00lux / sound:0 / ans:0
+------------------  1/19 9:43:53  ------------------   Temperature:17.17DegC / Pressure:1014.53hPa / Humidity:36.06% / Acceleration:19.76g / LUX:10.00lux / sound:0 / ans:0
+------------------  1/19 9:44:53  ------------------   Temperature:17.19DegC / Pressure:1014.59hPa / Humidity:35.98% / Acceleration:5.28g / LUX:5.00lux / sound:0 / ans:0
+------------------  1/19 9:45:53  ------------------   Temperature:17.20DegC / Pressure:1014.59hPa / Humidity:36.03% / Acceleration:22.15g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 9:46:53  ------------------   Temperature:17.23DegC / Pressure:1014.59hPa / Humidity:35.90% / Acceleration:8.77g / LUX:11.00lux / sound:0 / ans:0
+------------------  1/19 9:47:53  ------------------   Temperature:17.24DegC / Pressure:1014.61hPa / Humidity:35.84% / Acceleration:15.36g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 9:48:53  ------------------   Temperature:17.27DegC / Pressure:1014.59hPa / Humidity:35.78% / Acceleration:24.35g / LUX:4.00lux / sound:0 / ans:0
+------------------  1/19 9:49:54  ------------------   Temperature:17.28DegC / Pressure:1014.64hPa / Humidity:35.82% / Acceleration:23.98g / LUX:4.00lux / sound:0 / ans:0
+------------------  1/19 9:50:54  ------------------   Temperature:17.29DegC / Pressure:1014.64hPa / Humidity:35.76% / Acceleration:9.17g / LUX:9.00lux / sound:0 / ans:0
+------------------  1/19 9:51:54  ------------------   Temperature:17.31DegC / Pressure:1014.64hPa / Humidity:35.70% / Acceleration:10.65g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 9:52:54  ------------------   Temperature:17.33DegC / Pressure:1014.59hPa / Humidity:35.74% / Acceleration:15.59g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 9:53:54  ------------------   Temperature:17.35DegC / Pressure:1014.59hPa / Humidity:35.87% / Acceleration:9.07g / LUX:8.00lux / sound:0 / ans:0
+------------------  1/19 9:54:54  ------------------   Temperature:17.37DegC / Pressure:1014.54hPa / Humidity:35.90% / Acceleration:31.15g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 9:55:54  ------------------   Temperature:17.40DegC / Pressure:1014.53hPa / Humidity:35.82% / Acceleration:17.69g / LUX:9.00lux / sound:0 / ans:0
+------------------  1/19 9:56:54  ------------------   Temperature:17.40DegC / Pressure:1014.48hPa / Humidity:35.80% / Acceleration:17.69g / LUX:10.00lux / sound:0 / ans:0
+------------------  1/19 9:57:54  ------------------   Temperature:17.42DegC / Pressure:1014.48hPa / Humidity:35.81% / Acceleration:16.70g / LUX:2.00lux / sound:0 / ans:0
+------------------  1/19 9:58:54  ------------------   Temperature:17.42DegC / Pressure:1014.48hPa / Humidity:35.84% / Acceleration:21.16g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 9:59:55  ------------------   Temperature:17.44DegC / Pressure:1014.43hPa / Humidity:35.69% / Acceleration:4.32g / LUX:11.00lux / sound:0 / ans:0
+------------------  1/19 10:0:55  ------------------   Temperature:17.45DegC / Pressure:1014.45hPa / Humidity:35.67% / Acceleration:8.80g / LUX:4.00lux / sound:0 / ans:0
+------------------  1/19 10:1:55  ------------------   Temperature:17.48DegC / Pressure:1014.48hPa / Humidity:35.57% / Acceleration:20.14g / LUX:8.00lux / sound:0 / ans:0
+------------------  1/19 10:2:55  ------------------   Temperature:17.48DegC / Pressure:1014.43hPa / Humidity:35.61% / Acceleration:10.75g / LUX:5.00lux / sound:0 / ans:0
+------------------  1/19 10:3:55  ------------------   Temperature:17.50DegC / Pressure:1014.38hPa / Humidity:35.62% / Acceleration:21.85g / LUX:10.00lux / sound:0 / ans:0
+------------------  1/19 10:4:56  ------------------   Temperature:17.53DegC / Pressure:1014.45hPa / Humidity:35.52% / Acceleration:39.30g / LUX:10.00lux / sound:0 / ans:0
+------------------  1/19 10:5:56  ------------------   Temperature:17.54DegC / Pressure:1014.48hPa / Humidity:35.50% / Acceleration:17.88g / LUX:5.00lux / sound:0 / ans:0
+------------------  1/19 10:6:56  ------------------   Temperature:17.56DegC / Pressure:1014.48hPa / Humidity:35.44% / Acceleration:18.84g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 10:7:56  ------------------   Temperature:17.57DegC / Pressure:1014.43hPa / Humidity:35.35% / Acceleration:11.10g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 10:8:56  ------------------   Temperature:17.58DegC / Pressure:1014.43hPa / Humidity:35.30% / Acceleration:10.42g / LUX:11.00lux / sound:0 / ans:0
+------------------  1/19 10:9:56  ------------------   Temperature:17.59DegC / Pressure:1014.39hPa / Humidity:35.33% / Acceleration:17.92g / LUX:3.00lux / sound:0 / ans:0
+------------------  1/19 10:10:56  ------------------   Temperature:17.58DegC / Pressure:1014.51hPa / Humidity:35.35% / Acceleration:11.04g / LUX:9.00lux / sound:0 / ans:0
+------------------  1/19 10:11:56  ------------------   Temperature:17.59DegC / Pressure:1014.45hPa / Humidity:35.27% / Acceleration:35.61g / LUX:7.00lux / sound:0 / ans:0
+------------------  1/19 10:12:56  ------------------   Temperature:17.60DegC / Pressure:1014.31hPa / Humidity:35.31% / Acceleration:12.42g / LUX:3.00lux / sound:0 / ans:0
+------------------  1/19 10:13:56  ------------------   Temperature:17.61DegC / Pressure:1014.31hPa / Humidity:35.24% / Acceleration:27.74g / LUX:2.00lux / sound:0 / ans:0
+------------------  1/19 10:14:57  ------------------   Temperature:17.61DegC / Pressure:1014.26hPa / Humidity:35.21% / Acceleration:4.78g / LUX:12.00lux / sound:0 / ans:0
+------------------  1/19 10:15:57  ------------------   Temperature:17.63DegC / Pressure:1014.35hPa / Humidity:35.17% / Acceleration:17.48g / LUX:11.00lux / sound:0 / ans:0
+------------------  1/19 10:16:57  ------------------   Temperature:17.63DegC / Pressure:1014.35hPa / Humidity:35.21% / Acceleration:20.04g / LUX:12.00lux / sound:0 / ans:0
+------------------  1/19 10:17:57  ------------------   Temperature:17.64DegC / Pressure:1014.21hPa / Humidity:35.20% / Acceleration:12.97g / LUX:5.00lux / sound:0 / ans:0
+------------------  1/19 10:18:57  ------------------   Temperature:17.69DegC / Pressure:1014.29hPa / Humidity:35.12% / Acceleration:27.67g / LUX:10.00lux / sound:0 / ans:0
+------------------  1/19 10:19:57  ------------------   Temperature:17.70DegC / Pressure:1014.31hPa / Humidity:35.15% / Acceleration:16.04g / LUX:10.00lux / sound:0 / ans:0
+------------------  1/19 10:20:57  ------------------   Temperature:17.72DegC / Pressure:1014.35hPa / Humidity:35.16% / Acceleration:31.99g / LUX:17.00lux / sound:0 / ans:0
+------------------  1/19 10:21:57  ------------------   Temperature:17.74DegC / Pressure:1014.26hPa / Humidity:35.01% / Acceleration:10.91g / LUX:10.00lux / sound:0 / ans:0
+------------------  1/19 10:22:57  ------------------   Temperature:17.77DegC / Pressure:1014.26hPa / Humidity:34.98% / Acceleration:18.39g / LUX:15.00lux / sound:0 / ans:0
+------------------  1/19 10:23:57  ------------------   Temperature:17.78DegC / Pressure:1014.10hPa / Humidity:34.93% / Acceleration:12.63g / LUX:8.00lux / sound:0 / ans:0
+------------------  1/19 10:24:58  ------------------   Temperature:17.81DegC / Pressure:1014.10hPa / Humidity:34.88% / Acceleration:5.34g / LUX:7.00lux / sound:0 / ans:0
+------------------  1/19 10:25:58  ------------------   Temperature:17.84DegC / Pressure:1014.07hPa / Humidity:34.84% / Acceleration:29.80g / LUX:9.00lux / sound:0 / ans:0
+------------------  1/19 10:26:58  ------------------   Temperature:17.85DegC / Pressure:1014.05hPa / Humidity:34.76% / Acceleration:18.28g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 10:27:58  ------------------   Temperature:17.89DegC / Pressure:1014.05hPa / Humidity:34.67% / Acceleration:11.95g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 10:28:58  ------------------   Temperature:17.92DegC / Pressure:1014.07hPa / Humidity:34.66% / Acceleration:32.31g / LUX:13.00lux / sound:0 / ans:0
+------------------  1/19 10:29:59  ------------------   Temperature:17.94DegC / Pressure:1013.91hPa / Humidity:34.53% / Acceleration:6.63g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 10:30:59  ------------------   Temperature:17.98DegC / Pressure:1013.97hPa / Humidity:34.60% / Acceleration:4.02g / LUX:13.00lux / sound:0 / ans:0
+------------------  1/19 10:31:59  ------------------   Temperature:18.01DegC / Pressure:1014.02hPa / Humidity:34.57% / Acceleration:8.64g / LUX:13.00lux / sound:0 / ans:0
+------------------  1/19 10:32:59  ------------------   Temperature:18.05DegC / Pressure:1013.99hPa / Humidity:34.39% / Acceleration:9.27g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 10:33:59  ------------------   Temperature:18.07DegC / Pressure:1013.91hPa / Humidity:34.37% / Acceleration:11.69g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 10:34:59  ------------------   Temperature:18.10DegC / Pressure:1014.05hPa / Humidity:34.33% / Acceleration:19.80g / LUX:13.00lux / sound:0 / ans:0
+------------------  1/19 10:35:59  ------------------   Temperature:18.13DegC / Pressure:1013.83hPa / Humidity:34.28% / Acceleration:10.27g / LUX:13.00lux / sound:0 / ans:0
+------------------  1/19 10:36:59  ------------------   Temperature:18.15DegC / Pressure:1013.86hPa / Humidity:34.23% / Acceleration:26.35g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 10:37:59  ------------------   Temperature:18.18DegC / Pressure:1013.81hPa / Humidity:34.13% / Acceleration:11.04g / LUX:13.00lux / sound:0 / ans:0
+------------------  1/19 10:38:59  ------------------   Temperature:18.21DegC / Pressure:1013.78hPa / Humidity:34.04% / Acceleration:16.64g / LUX:15.00lux / sound:0 / ans:0
+------------------  1/19 10:40:0  ------------------   Temperature:18.24DegC / Pressure:1013.78hPa / Humidity:34.04% / Acceleration:20.43g / LUX:15.00lux / sound:0 / ans:0
+------------------  1/19 10:41:0  ------------------   Temperature:18.28DegC / Pressure:1013.75hPa / Humidity:33.95% / Acceleration:16.06g / LUX:15.00lux / sound:0 / ans:0
+------------------  1/19 10:42:0  ------------------   Temperature:18.31DegC / Pressure:1013.70hPa / Humidity:33.84% / Acceleration:45.88g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 10:43:0  ------------------   Temperature:18.34DegC / Pressure:1013.67hPa / Humidity:33.82% / Acceleration:18.96g / LUX:15.00lux / sound:0 / ans:0
+------------------  1/19 10:44:0  ------------------   Temperature:18.37DegC / Pressure:1013.67hPa / Humidity:33.69% / Acceleration:17.90g / LUX:20.00lux / sound:0 / ans:0
+------------------  1/19 10:45:0  ------------------   Temperature:18.39DegC / Pressure:1013.67hPa / Humidity:33.59% / Acceleration:18.60g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 10:46:0  ------------------   Temperature:18.42DegC / Pressure:1013.62hPa / Humidity:33.52% / Acceleration:11.13g / LUX:15.00lux / sound:0 / ans:0
+------------------  1/19 10:47:0  ------------------   Temperature:18.45DegC / Pressure:1013.64hPa / Humidity:33.41% / Acceleration:11.35g / LUX:20.00lux / sound:0 / ans:0
+------------------  1/19 10:48:0  ------------------   Temperature:18.48DegC / Pressure:1013.65hPa / Humidity:33.36% / Acceleration:7.34g / LUX:13.00lux / sound:0 / ans:0
+------------------  1/19 10:49:0  ------------------   Temperature:18.50DegC / Pressure:1013.59hPa / Humidity:33.29% / Acceleration:6.14g / LUX:16.00lux / sound:0 / ans:0
+------------------  1/19 10:50:1  ------------------   Temperature:18.53DegC / Pressure:1013.54hPa / Humidity:33.22% / Acceleration:33.45g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 10:51:1  ------------------   Temperature:18.56DegC / Pressure:1013.57hPa / Humidity:33.18% / Acceleration:12.30g / LUX:15.00lux / sound:0 / ans:0
+------------------  1/19 10:52:1  ------------------   Temperature:18.59DegC / Pressure:1013.56hPa / Humidity:33.10% / Acceleration:20.67g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 10:53:1  ------------------   Temperature:18.61DegC / Pressure:1013.48hPa / Humidity:33.04% / Acceleration:14.10g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 10:54:1  ------------------   Temperature:18.63DegC / Pressure:1013.46hPa / Humidity:32.98% / Acceleration:9.99g / LUX:13.00lux / sound:0 / ans:0
+------------------  1/19 10:55:2  ------------------   Temperature:18.67DegC / Pressure:1013.46hPa / Humidity:32.91% / Acceleration:6.70g / LUX:13.00lux / sound:0 / ans:0
+------------------  1/19 10:56:2  ------------------   Temperature:18.70DegC / Pressure:1013.49hPa / Humidity:32.89% / Acceleration:33.94g / LUX:13.00lux / sound:0 / ans:0
+------------------  1/19 10:57:2  ------------------   Temperature:18.73DegC / Pressure:1013.48hPa / Humidity:32.81% / Acceleration:30.72g / LUX:15.00lux / sound:0 / ans:0
+------------------  1/19 10:58:2  ------------------   Temperature:18.77DegC / Pressure:1013.51hPa / Humidity:32.69% / Acceleration:40.37g / LUX:20.00lux / sound:0 / ans:0
+------------------  1/19 10:59:2  ------------------   Temperature:18.78DegC / Pressure:1013.48hPa / Humidity:32.65% / Acceleration:17.55g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 11:0:2  ------------------   Temperature:18.81DegC / Pressure:1013.46hPa / Humidity:32.55% / Acceleration:12.71g / LUX:10.00lux / sound:0 / ans:0
+------------------  1/19 11:1:2  ------------------   Temperature:18.84DegC / Pressure:1013.46hPa / Humidity:32.54% / Acceleration:22.59g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 11:2:2  ------------------   Temperature:18.87DegC / Pressure:1013.54hPa / Humidity:32.44% / Acceleration:8.25g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 11:3:2  ------------------   Temperature:18.90DegC / Pressure:1013.43hPa / Humidity:32.33% / Acceleration:11.66g / LUX:20.00lux / sound:0 / ans:0
+------------------  1/19 11:4:2  ------------------   Temperature:18.91DegC / Pressure:1013.41hPa / Humidity:32.32% / Acceleration:12.22g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 11:5:3  ------------------   Temperature:18.94DegC / Pressure:1013.32hPa / Humidity:32.23% / Acceleration:24.78g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 11:6:3  ------------------   Temperature:18.97DegC / Pressure:1013.35hPa / Humidity:32.15% / Acceleration:19.17g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 11:7:3  ------------------   Temperature:18.99DegC / Pressure:1013.27hPa / Humidity:32.09% / Acceleration:22.03g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 11:8:3  ------------------   Temperature:19.02DegC / Pressure:1013.27hPa / Humidity:32.05% / Acceleration:9.12g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 11:9:3  ------------------   Temperature:19.05DegC / Pressure:1013.22hPa / Humidity:32.00% / Acceleration:7.30g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 11:10:3  ------------------   Temperature:19.07DegC / Pressure:1013.24hPa / Humidity:31.98% / Acceleration:7.05g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 11:11:3  ------------------   Temperature:19.10DegC / Pressure:1013.32hPa / Humidity:31.93% / Acceleration:7.39g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 11:12:3  ------------------   Temperature:19.12DegC / Pressure:1013.22hPa / Humidity:31.92% / Acceleration:16.08g / LUX:15.00lux / sound:0 / ans:0
+------------------  1/19 11:13:3  ------------------   Temperature:19.14DegC / Pressure:1013.22hPa / Humidity:31.83% / Acceleration:15.62g / LUX:20.00lux / sound:0 / ans:0
+------------------  1/19 11:14:3  ------------------   Temperature:19.16DegC / Pressure:1013.24hPa / Humidity:31.76% / Acceleration:11.97g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 11:15:4  ------------------   Temperature:19.18DegC / Pressure:1013.11hPa / Humidity:31.71% / Acceleration:14.63g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 11:16:4  ------------------   Temperature:19.19DegC / Pressure:1013.11hPa / Humidity:31.70% / Acceleration:19.49g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 11:17:4  ------------------   Temperature:19.23DegC / Pressure:1013.14hPa / Humidity:31.63% / Acceleration:16.44g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 11:18:4  ------------------   Temperature:19.26DegC / Pressure:1013.16hPa / Humidity:31.60% / Acceleration:16.49g / LUX:15.00lux / sound:0 / ans:0
+------------------  1/19 11:19:4  ------------------   Temperature:19.27DegC / Pressure:1013.06hPa / Humidity:31.56% / Acceleration:5.65g / LUX:9.00lux / sound:0 / ans:0
+------------------  1/19 11:20:5  ------------------   Temperature:19.28DegC / Pressure:1013.08hPa / Humidity:31.56% / Acceleration:4.73g / LUX:3.00lux / sound:0 / ans:0
+------------------  1/19 11:21:5  ------------------   Temperature:19.30DegC / Pressure:1013.00hPa / Humidity:31.52% / Acceleration:23.27g / LUX:4.00lux / sound:0 / ans:0
+------------------  1/19 11:22:5  ------------------   Temperature:19.31DegC / Pressure:1013.00hPa / Humidity:31.44% / Acceleration:24.03g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 11:23:5  ------------------   Temperature:19.30DegC / Pressure:1012.95hPa / Humidity:31.44% / Acceleration:10.43g / LUX:10.00lux / sound:0 / ans:0
+------------------  1/19 11:24:5  ------------------   Temperature:19.32DegC / Pressure:1013.00hPa / Humidity:31.47% / Acceleration:24.58g / LUX:5.00lux / sound:0 / ans:0
+------------------  1/19 11:25:5  ------------------   Temperature:19.32DegC / Pressure:1012.92hPa / Humidity:31.40% / Acceleration:37.01g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 11:26:5  ------------------   Temperature:19.32DegC / Pressure:1012.90hPa / Humidity:31.37% / Acceleration:1.97g / LUX:11.00lux / sound:0 / ans:0
+------------------  1/19 11:27:5  ------------------   Temperature:19.33DegC / Pressure:1012.87hPa / Humidity:31.33% / Acceleration:18.05g / LUX:4.00lux / sound:0 / ans:0
+------------------  1/19 11:28:5  ------------------   Temperature:19.33DegC / Pressure:1012.84hPa / Humidity:31.31% / Acceleration:11.63g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 11:29:5  ------------------   Temperature:19.33DegC / Pressure:1012.76hPa / Humidity:31.27% / Acceleration:16.42g / LUX:12.00lux / sound:0 / ans:0
+------------------  1/19 11:30:6  ------------------   Temperature:19.33DegC / Pressure:1012.82hPa / Humidity:31.33% / Acceleration:15.08g / LUX:14.00lux / sound:0 / ans:0
+------------------  1/19 11:31:6  ------------------   Temperature:19.34DegC / Pressure:1012.74hPa / Humidity:31.30% / Acceleration:23.44g / LUX:15.00lux / sound:0 / ans:0
+------------------  1/19 11:32:6  ------------------   Temperature:19.35DegC / Pressure:1012.84hPa / Humidity:31.30% / Acceleration:3.47g / LUX:15.00lux / sound:0 / ans:0
+------------------  1/19 11:33:6  ------------------   Temperature:19.36DegC / Pressure:1012.84hPa / Humidity:31.31% / Acceleration:4.18g / LUX:16.00lux / sound:0 / ans:0
+------------------  1/19 11:34:6  ------------------   Temperature:19.37DegC / Pressure:1012.76hPa / Humidity:31.30% / Acceleration:12.76g / LUX:11.00lux / sound:0 / ans:0
+------------------  1/19 11:35:6  ------------------   Temperature:19.35DegC / Pressure:1012.62hPa / Humidity:31.28% / Acceleration:11.76g / LUX:5.00lux / sound:0 / ans:0
+------------------  1/19 11:36:6  ------------------   Temperature:19.35DegC / Pressure:1012.64hPa / Humidity:31.30% / Acceleration:15.01g / LUX:5.00lux / sound:0 / ans:0
+------------------  1/19 11:37:6  ------------------   Temperature:19.34DegC / Pressure:1012.62hPa / Humidity:31.29% / Acceleration:11.55g / LUX:4.00lux / sound:0 / ans:0
+------------------  1/19 11:38:6  ------------------   Temperature:19.32DegC / Pressure:1012.58hPa / Humidity:31.29% / Acceleration:38.07g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 11:39:6  ------------------   Temperature:19.31DegC / Pressure:1012.68hPa / Humidity:31.33% / Acceleration:17.53g / LUX:4.00lux / sound:0 / ans:0
+------------------  1/19 11:40:7  ------------------   Temperature:19.31DegC / Pressure:1012.54hPa / Humidity:31.39% / Acceleration:21.37g / LUX:11.00lux / sound:0 / ans:0
+------------------  1/19 11:41:7  ------------------   Temperature:19.28DegC / Pressure:1012.49hPa / Humidity:31.41% / Acceleration:19.13g / LUX:4.00lux / sound:0 / ans:0
+------------------  1/19 11:42:7  ------------------   Temperature:19.27DegC / Pressure:1012.51hPa / Humidity:31.44% / Acceleration:4.74g / LUX:7.00lux / sound:0 / ans:0
+------------------  1/19 11:43:7  ------------------   Temperature:19.24DegC / Pressure:1012.51hPa / Humidity:31.50% / Acceleration:11.16g / LUX:7.00lux / sound:0 / ans:0
+------------------  1/19 11:44:7  ------------------   Temperature:19.24DegC / Pressure:1012.51hPa / Humidity:31.48% / Acceleration:16.96g / LUX:2.00lux / sound:0 / ans:0
+------------------  1/19 11:45:7  ------------------   Temperature:19.24DegC / Pressure:1012.49hPa / Humidity:31.51% / Acceleration:10.65g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 11:46:7  ------------------   Temperature:19.23DegC / Pressure:1012.58hPa / Humidity:31.51% / Acceleration:27.04g / LUX:7.00lux / sound:0 / ans:0
+------------------  1/19 11:47:7  ------------------   Temperature:19.21DegC / Pressure:1012.46hPa / Humidity:31.47% / Acceleration:14.00g / LUX:1.00lux / sound:0 / ans:0
+------------------  1/19 11:48:7  ------------------   Temperature:19.18DegC / Pressure:1012.62hPa / Humidity:31.54% / Acceleration:28.53g / LUX:1.00lux / sound:0 / ans:0
+------------------  1/19 11:49:7  ------------------   Temperature:19.17DegC / Pressure:1012.60hPa / Humidity:31.60% / Acceleration:6.90g / LUX:9.00lux / sound:0 / ans:0
+------------------  1/19 11:50:8  ------------------   Temperature:19.14DegC / Pressure:1012.43hPa / Humidity:31.61% / Acceleration:21.14g / LUX:1.00lux / sound:0 / ans:0
+------------------  1/19 11:51:8  ------------------   Temperature:19.14DegC / Pressure:1012.41hPa / Humidity:31.59% / Acceleration:41.51g / LUX:5.00lux / sound:0 / ans:0
+------------------  1/19 11:52:8  ------------------   Temperature:19.11DegC / Pressure:1012.41hPa / Humidity:31.64% / Acceleration:35.60g / LUX:4.00lux / sound:0 / ans:0
+------------------  1/19 11:53:8  ------------------   Temperature:19.12DegC / Pressure:1012.33hPa / Humidity:31.65% / Acceleration:32.74g / LUX:11.00lux / sound:0 / ans:0
+------------------  1/19 11:54:8  ------------------   Temperature:19.11DegC / Pressure:1012.27hPa / Humidity:31.68% / Acceleration:15.05g / LUX:2.00lux / sound:0 / ans:0
+------------------  1/19 11:55:9  ------------------   Temperature:19.10DegC / Pressure:1012.25hPa / Humidity:31.78% / Acceleration:32.62g / LUX:2.00lux / sound:0 / ans:0
+------------------  1/19 11:56:9  ------------------   Temperature:19.07DegC / Pressure:1012.14hPa / Humidity:31.83% / Acceleration:12.32g / LUX:5.00lux / sound:0 / ans:0
+------------------  1/19 11:57:9  ------------------   Temperature:19.06DegC / Pressure:1012.17hPa / Humidity:31.88% / Acceleration:8.84g / LUX:4.00lux / sound:0 / ans:0
+------------------  1/19 11:58:9  ------------------   Temperature:19.07DegC / Pressure:1012.16hPa / Humidity:31.87% / Acceleration:20.73g / LUX:9.00lux / sound:0 / ans:0
+------------------  1/19 11:59:9  ------------------   Temperature:19.05DegC / Pressure:1012.19hPa / Humidity:31.94% / Acceleration:17.42g / LUX:2.00lux / sound:0 / ans:0
+------------------  1/19 12:0:9  ------------------   Temperature:19.03DegC / Pressure:1012.22hPa / Humidity:32.04% / Acceleration:14.20g / LUX:7.00lux / sound:0 / ans:0
+------------------  1/19 12:1:9  ------------------   Temperature:19.02DegC / Pressure:1012.17hPa / Humidity:32.13% / Acceleration:16.97g / LUX:7.00lux / sound:0 / ans:0
+------------------  1/19 12:2:9  ------------------   Temperature:18.99DegC / Pressure:1012.06hPa / Humidity:32.21% / Acceleration:25.84g / LUX:2.00lux / sound:0 / ans:0
+------------------  1/19 12:3:9  ------------------   Temperature:18.98DegC / Pressure:1012.09hPa / Humidity:32.22% / Acceleration:9.93g / LUX:7.00lux / sound:0 / ans:0
+------------------  1/19 12:4:9  ------------------   Temperature:18.95DegC / Pressure:1011.98hPa / Humidity:32.30% / Acceleration:9.00g / LUX:7.00lux / sound:0 / ans:0
+------------------  1/19 12:5:10  ------------------   Temperature:18.93DegC / Pressure:1012.00hPa / Humidity:32.35% / Acceleration:10.34g / LUX:7.00lux / sound:0 / ans:0
+------------------  1/19 12:6:10  ------------------   Temperature:18.93DegC / Pressure:1011.98hPa / Humidity:32.39% / Acceleration:9.76g / LUX:1.00lux / sound:0 / ans:0
+------------------  1/19 12:7:10  ------------------   Temperature:18.90DegC / Pressure:1011.93hPa / Humidity:32.40% / Acceleration:22.85g / LUX:7.00lux / sound:0 / ans:0
+------------------  1/19 12:8:10  ------------------   Temperature:18.90DegC / Pressure:1011.98hPa / Humidity:32.40% / Acceleration:20.59g / LUX:2.00lux / sound:0 / ans:0
+------------------  1/19 12:9:10  ------------------   Temperature:18.88DegC / Pressure:1011.95hPa / Humidity:32.46% / Acceleration:4.61g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 12:10:10  ------------------   Temperature:18.87DegC / Pressure:1011.84hPa / Humidity:32.49% / Acceleration:13.21g / LUX:5.00lux / sound:0 / ans:0
+------------------  1/19 12:11:10  ------------------   Temperature:18.87DegC / Pressure:1011.79hPa / Humidity:32.53% / Acceleration:67.93g / LUX:4.00lux / sound:0 / ans:0
+------------------  1/19 12:12:10  ------------------   Temperature:18.84DegC / Pressure:1011.77hPa / Humidity:32.60% / Acceleration:7.63g / LUX:5.00lux / sound:0 / ans:0
+------------------  1/19 12:13:10  ------------------   Temperature:18.83DegC / Pressure:1011.71hPa / Humidity:32.62% / Acceleration:19.25g / LUX:3.00lux / sound:0 / ans:0
+------------------  1/19 12:14:10  ------------------   Temperature:18.82DegC / Pressure:1011.69hPa / Humidity:32.62% / Acceleration:9.40g / LUX:5.00lux / sound:0 / ans:0
+------------------  1/19 12:15:11  ------------------   Temperature:18.81DegC / Pressure:1011.74hPa / Humidity:32.58% / Acceleration:17.26g / LUX:6.00lux / sound:0 / ans:0
+------------------  1/19 12:16:11  ------------------   Temperature:18.79DegC / Pressure:1011.66hPa / Humidity:32.65% / Acceleration:15.16g / LUX:2.00lux / sound:0 / ans:0
+------------------  1/19 12:17:11  ------------------   Temperature:18.77DegC / Pressure:1011.66hPa / Humidity:32.63% / Acceleration:6.02g / LUX:2.00lux / sound:0 / ans:0
+------------------  1/19 12:18:11  ------------------   Temperature:18.76DegC / Pressure:1011.58hPa / Humidity:32.68% / Acceleration:11.58g / LUX:7.00lux / sound:0 / ans:0
+------------------  1/19 12:19:11  ------------------   Temperature:18.76DegC / Pressure:1011.69hPa / Humidity:32.76% / Acceleration:24.31g / LUX:18.00lux / sound:0 / ans:0
+------------------  1/19 12:20:12  ------------------   Temperature:18.76DegC / Pressure:1011.69hPa / Humidity:32.73% / Acceleration:15.92g / LUX:16.00lux / sound:0 / ans:0
+------------------  1/19 12:21:12  ------------------   Temperature:18.75DegC / Pressure:1011.63hPa / Humidity:32.87% / Acceleration:3.61g / LUX:82.00lux / sound:0 / ans:0

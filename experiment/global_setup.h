@@ -18,10 +18,12 @@ sensors_event_t lux;
 float old_lux;
 // 音センサー
 const int mic_analogpin = 3;
-int sound;
-int old_sound;
+int16_t sound;
+int16_t old_sound;
 // 赤外線センサー
 const int pir_pin = 13;
 bool ans;
 // 10分ごとに温湿度気圧センサーを観測
 int count = 0;
+// analog-I2C
+Adafruit_ADS1115 ads(0x48);
