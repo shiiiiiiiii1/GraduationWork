@@ -1,3 +1,4 @@
 *.docx
 docx/*
 experiment/wifi_set.h
+sample/
