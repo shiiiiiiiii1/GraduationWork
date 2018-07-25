@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 // ライブラリ
 #include <ESP8266WiFi.h>   // WROOM
 #include <NTP.h>   // Time

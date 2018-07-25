@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 #include <Time.h>   // 時間のセット
 #include <TimeLib.h>   // 時間のセット
 #include <Wire.h>   // I2C
